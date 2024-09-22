@@ -5,13 +5,13 @@ https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",PSJ TV_🇲🇨
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",ID~Football•🇲🇨	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="EVENT",ID~Football•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",ID~Sport~1•🇲🇨	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="EVENT",ID~Sport~1•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",ID~Sport~2•🇲🇨	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="EVENT",ID~Sport~2•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",ID~Spotv•🇲🇨	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="EVENT",ID~Spotv•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -26,13 +26,13 @@ http://xtv.ooo:8080/live/35588981/18988553/350972.ts
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",SCTV_Gen
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",ID|INews
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="EVENT",ID|INews
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157579
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",ID|MNC TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="EVENT",ID|MNC TV
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/165054
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",ID|Moji
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="EVENT",ID|Moji
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",ID|TVRI Sport
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="EVENT",ID|TVRI Sport
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/166686
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",🇭🇰 NOW SPORTS 1 
@@ -320,32 +320,6 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM�SPORTS", SPOTV_🇲🇨
-https://s.id/SPOTV_shareext-xs
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM�SPORTS", SPOTV_2_🇲🇨
-https://s.id/SPOTV2_shareext-xs
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM�SPORTS", RCTI_🇲🇨
-https://s.id/RCTI_shareext-xs
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM�SPORTS", INDOSIAR_🇲🇨
-https://s.id/indosiar_shareext-xs
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM�SPORTS", SCTV_🇲🇨
-https://s.id/SCTV_shareext-xs
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM�SPORTS", MNCTV_🇲🇨
-https://s.id/MNCTV__shareext-xs
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM�SPORTS", MNCTV.2_🇲🇨
-https://s.id/mnctvv_shareext-xs
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM�SPORTS", INEWS_🇲🇨
-https://s.id/iNews_shareext-xs
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM�SPORTS", MOJI_🇲🇨
-https://s.id/MOJI_shareext-xs
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM�SPORTS", TVRI_SPORTS_🇲🇨
-https://s.id/TVRIsports_shareext-xs
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM�SPORTS", TRANS7_🇲🇨
-https://s.id/TRANS7_shareext-xs
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM�SPORTS", TRANSTV_🇲🇨
-https://s.id/TRANSTV_shareext-xs
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM�SPORTS", TVONE_🇲🇨
-https://s.id/TVONE_shareext-xs
 
 #EXTINF:-1 tvg-id="NowSports1.hk" tvg-name="HK Now Sports 1" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="PREMIUM�SPORTS",HK|Now>Sports.1(live.event)
 http://defaultgen.com:3050/Teststick256/AKzhFs4r8s/425329
