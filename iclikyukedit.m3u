@@ -1,17 +1,17 @@
 
-#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",WELCOME TO KINGINDOTV
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="KINGINDOTV",WELCOME TO KINGINDOTV
 https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
-#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",GRATIS DARI BERBAGAI SUMBER!!!!
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="KINGINDOTV",GRATIS DARI BERBAGAI SUMBER!!!!
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",PSJ TV_ðŸ‡²ðŸ‡¨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="KINGINDOTV",PSJ TV_ðŸ‡²ðŸ‡¨
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="EVENT",ID~Footballâ€¢ðŸ‡²ðŸ‡¨	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM",ID~Footballâ€¢ðŸ‡²ðŸ‡¨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="EVENT",ID~Sport~1â€¢ðŸ‡²ðŸ‡¨	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM",ID~Sport~1â€¢ðŸ‡²ðŸ‡¨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="EVENT",ID~Sport~2â€¢ðŸ‡²ðŸ‡¨	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM",ID~Sport~2â€¢ðŸ‡²ðŸ‡¨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="EVENT",ID~Spotvâ€¢ðŸ‡²ðŸ‡¨	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM",ID~Spotvâ€¢ðŸ‡²ðŸ‡¨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -22,9 +22,9 @@ https://proji.glitch.me/https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarH
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="CH",INDOSIAR__x
 http://xtv.ooo:8080/live/35588981/18988553/350972.ts
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",RCTI_Gen
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",RCTI_Gen
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",SCTV_Gen
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",SCTV_Gen
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="EVENT",ID|INews
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157579
@@ -35,97 +35,97 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="EVENT",ID|TVRI Sport
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/166686
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",ðŸ‡­ðŸ‡° NOW SPORTS 1 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",ðŸ‡­ðŸ‡° NOW SPORTS 1 
 http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802488.ts 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",ðŸ‡­ðŸ‡° NOW SPORTS 2 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",ðŸ‡­ðŸ‡° NOW SPORTS 2 
 http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802487.ts 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",ðŸ‡­ðŸ‡° NOW SPORTS 3 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",ðŸ‡­ðŸ‡° NOW SPORTS 3 
 http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802486.ts 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",ðŸ‡­ðŸ‡° NOW SPORTS 4 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",ðŸ‡­ðŸ‡° NOW SPORTS 4 
 http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802485.ts 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",ðŸ‡­ðŸ‡° NOW SPORTS 5 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",ðŸ‡­ðŸ‡° NOW SPORTS 5 
 http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802484.ts 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",ðŸ‡­ðŸ‡° NOW SPORTS 6 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",ðŸ‡­ðŸ‡° NOW SPORTS 6 
 http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802483.ts 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",ðŸ‡­ðŸ‡° NOW SPORTS 7  
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",ðŸ‡­ðŸ‡° NOW SPORTS 7  
 http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/802482.ts 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",ðŸ‡µðŸ‡­ PBA RUSH 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",ðŸ‡µðŸ‡­ PBA RUSH 
 http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/718642.ts
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",ðŸ‡µðŸ‡­ ONE SPORTS 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",ðŸ‡µðŸ‡­ ONE SPORTS 
 http://4kplusmini.com:80/live/0e087716b5/ec031f9618df/1035112.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CH",Astro.Sports.1.(dd)
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="PREMIUM",Astro.Sports.1.(dd)
 https://mhdtv.co.in/daddy/stream.m3u8?id=123|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CH",Astro.Sports.2.(dd)
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="PREMIUM",Astro.Sports.2.(dd)
 https://mhdtv.co.in/daddy/stream.m3u8?id=124|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CH",Astro.Sports.3.(dd)
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="PREMIUM",Astro.Sports.3.(dd)
 https://mhdtv.co.in/daddy/stream.m3u8?id=125|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CH",Astro.Sports.4.(dd)
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="PREMIUM",Astro.Sports.4.(dd)
 https://mhdtv.co.in/daddy/stream.m3u8?id=126|referer=https://mhdtv.co.in&user-agent=Shareext/2.2.0
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",MY|Astro SuperSport
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",MY|Astro SuperSport
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/146068
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",MY|Astro SuperSport 2
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",MY|Astro SuperSport 2
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157556
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",MY|Astro SuperSport 3
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",MY|Astro SuperSport 3
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157557
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",MY|Astro SuperSport 4
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",MY|Astro SuperSport 4
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157558
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",MY|Astro Cricket
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",MY|Astro Cricket
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157565
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",MY|Astro Arena
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",MY|Astro Arena
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157485
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",MY|Astro Arena 2
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",MY|Astro Arena 2
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/287793
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",MY|Eurosport 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",MY|Eurosport 
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/158353
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",MY|beINSports
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",MY|beINSports
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157561
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",PH|One Sports
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",PH|One Sports
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299947
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",PH|One Sports +
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",PH|One Sports +
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290365
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",PH|PBA Rush
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",PH|PBA Rush
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299950
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",PH|Premier Sports
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",PH|Premier Sports
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299965
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",PH|Premier Tennis
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",PH|Premier Tennis
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/276599
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",PH|TAP Sports
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",PH|TAP Sports
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299945
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",INDI|DD Sports
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",INDI|DD Sports
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/56153
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",INDI|Sony Sports Ten 1
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",INDI|Sony Sports Ten 1
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16622
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",INDI|Sony Sports Ten 2
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",INDI|Sony Sports Ten 2
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16621
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",INDI|Sony Sports Ten 3
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",INDI|Sony Sports Ten 3
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/56191
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",INDI|StarSports 1
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",INDI|StarSports 1
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3630
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",INDI|StarSports 2
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",INDI|StarSports 2
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3631
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",INDI|StarSports 3
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",INDI|StarSports 3
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/62584
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",INDI|StarSports Select 1
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",INDI|StarSports Select 1
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/82628
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",INDI|StarSports Select 2
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",INDI|StarSports Select 2
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16619
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",INDI|Ten Cricket
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",INDI|Ten Cricket
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/302356
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",INDI|Willow
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",INDI|Willow
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/165776
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",BILLIARD TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",BILLIARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CH",MY: ASTRO SUPERSPORTS 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="PREMIUM",MY: ASTRO SUPERSPORTS 1 HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5480.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CH",MY: ASTRO SUPERSPORTS 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="PREMIUM",MY: ASTRO SUPERSPORTS 2 HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5481.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CH",MY: ASTRO SUPERSPORTS 3 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="PREMIUM",MY: ASTRO SUPERSPORTS 3 HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5482.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CH",MY: ASTRO SUPERSPORTS 4 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="PREMIUM",MY: ASTRO SUPERSPORTS 4 HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5483.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="CH",DSTV: SUPERSPORTS LALIGA HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/515.ts
@@ -153,41 +153,41 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/285.ts
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/283.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="CH",UK: TNT SPORT 4 FHD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/255259.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",CRICKET: THE PAPARE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",CRICKET: THE PAPARE
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/269552.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",INDIE: Sports18_HD1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",INDIE: Sports18_HD1
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/269596.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",IPL: STARSPORTS 1 HINDI á´´á´°
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",IPL: STARSPORTS 1 HINDI á´´á´°
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/303586.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",IPL: STARSPORTS 2 á´´á´°
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",IPL: STARSPORTS 2 á´´á´°
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/303592.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",CRICKET: STARSPORTS 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",CRICKET: STARSPORTS 3
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1080.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="CH",UK: EUROSPORTS
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/216.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="CH",UK: EUROSPORTS 2 HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1920.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",CRICKET: Sports 18 Khel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",CRICKET: Sports 18 Khel
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/151091.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",CRICKET: Fast Sports HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",CRICKET: Fast Sports HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/87460.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",CRICKET: FLOW SPORTS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",CRICKET: FLOW SPORTS
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/34489.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",CRICKET: T SPORTS.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",CRICKET: T SPORTS.
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/130714.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",CRICKET: RTA Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",CRICKET: RTA Sports
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1039.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",CRICKET: SONY TEN 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",CRICKET: SONY TEN 1 HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",CRICKET: SONY Ten 2 HD.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",CRICKET: SONY Ten 2 HD.
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",CRICKET: SONY TEN 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",CRICKET: SONY TEN 3 HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",CRICKET: SONY TEN 4 (FHD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",CRICKET: SONY TEN 4 (FHD)
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",CRICKET: SONY 5 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",CRICKET: SONY 5 HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="CH",CRICKET: SONY ESPN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",CRICKET: SONY ESPN HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/155.ts
 #EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="CH",Sony TEN 1 HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
@@ -200,15 +200,15 @@ http://xtv.ooo:8080/MansoorWapda/258741/351034
 #EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="CH",Sony TEN 5 HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",[JP]GAORA SPORTS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",[JP]GAORA SPORTS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",[JP]J Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",[JP]J Sports 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",[JP]J Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",[JP]J Sports 2
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",[JP]J Sport 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",[JP]J Sport 3
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",[JP]J Sport 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",[JP]J Sport 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="CH",OPTUS*tv_AU
@@ -291,31 +291,31 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="CH",GaoraÂ°Sports
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",RTM_1_dec=nativeðŸ‡²ðŸ‡¾
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",RTM_1_dec=nativeðŸ‡²ðŸ‡¾
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",0KEY_dec=nativeðŸ‡²ðŸ‡¾
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",0KEY_dec=nativeðŸ‡²ðŸ‡¾
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
-#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",SUKAN_RTM_dec=nativeðŸ‡²ðŸ‡¾
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",SUKAN_RTM_dec=nativeðŸ‡²ðŸ‡¾
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",RTB_SUKMA.INDERA
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",RTB_SUKMA.INDERA
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b608000_sleng.m3u8
-#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",RTB_ANEKA
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",RTB_ANEKA
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8
-#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",VTV_CAnThO
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",VTV_CAnThO
 http://171.238.181.52:18080/156.m3u8?Shareext/ts
-#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",Vtv_5
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",Vtv_5
 http://171.238.181.52:18080/194.m3u8
-#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",RealMadrid tv
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",RealMadrid tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",MUtv
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",MUtv
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",sportstv 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",sportstv 
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",StrongmanChampionLeague
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",StrongmanChampionLeague
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
-#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",WWE.network
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",WWE.network
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="CH",Nature
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM¹",Nature
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
