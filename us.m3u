@@ -79,7 +79,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=205&type=drm
-https://sritv.serv00.net/red/play.mpd?id=205&type=dash
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.ts
 
 #EXTINF:-1 group-title="EVENT BOLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png", INDOSIAR||
 http://xtv.ooo:8080/live/35588981/18988553/350972.ts
