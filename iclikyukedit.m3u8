@@ -3,21 +3,19 @@
 https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM",GRATIS DARI BERBAGAI SUMBER!!!!
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM",PSJ TV_ðŸ‡²ðŸ‡¨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM",PERSIJA TV¨
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM",ID~Footballâ€¢ðŸ‡²ðŸ‡¨	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM",ID~SOCCERCHANNEL¨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM",ID~Sport~1â€¢ðŸ‡²ðŸ‡¨	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM",ID~SPORTSTAR¹¨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM",ID~Sport~2â€¢ðŸ‡²ðŸ‡¨	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM",ID~SPORTSTAR²¨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM",ID~Spotvâ€¢ðŸ‡²ðŸ‡¨	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM",ID~SPOTV¨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM",ID~SPOTV²¨	
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv2/sa_hls/rcti-spotv2.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg", INDOSIAR_mpd(0tt/tivimate)
-https://proji.glitch.me/https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="PREMIUM",INDOSIAR_Gen
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="PREMIUM",INDOSIAR__x
