@@ -224,13 +224,13 @@ http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554965_&extensi
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="LOKAL",INEWS_+_ðŸ‡®ðŸ‡©
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200744.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LOKAL",Indosiar|@@@
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LOKAL",INDOSIAR¹
 http://xtv.ooo:8080/live/83212539/43153928/350972.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LOKAL",Indosiar|xtv_~
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LOKAL",INDOSIAR²
 http://xtv.ooo:8080/359052742/470428329/350972
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LOKAL",Indosiar.video.mytv
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LOKAL",INDOSIAR³
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LOKAL",Indosiar.(indihome)
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LOKAL",INDOSIAR⁴
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="LOKAL",SCTV(indihome)
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
