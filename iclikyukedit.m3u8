@@ -7177,6 +7177,38 @@ https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 
 
 
+https://d1abp075u76pbq.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+ 
+#EXTINF:-1 tvg-id="Galaxy Premium - [Channel 12].id" tvg-logo="https://iili.io/Jmo9YzX.png" group-title="GENERAL MOVIES",Galaxy Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+ 
+#EXTINF:-1 tvg-id="My Cinema" tvg-logo="https://iili.io/Jmo9Xm7.png" group-title="GENERAL MOVIES",MyCinema
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8?app_type=web&userid=jjj&chname=My_Cinema_HD
+ 
+#EXTINF:-1 tvg-id="My Cinema - [Channel 16].id" tvg-logo="https://iili.io/Jmo9Xm7.png" group-title="GENERAL MOVIES",MyCinema (MNC Vision)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jmo9Mdl.png" group-title="GENERAL MOVIES",MyCinema Europe
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=My_Cinema_Europe_HD
+ 
+#EXTINF:-1 tvg-id="SBSWorldMovies.au" tvg-logo="https://iili.io/Jmo9WeS.png" group-title="GENERAL MOVIES",SBS World Movies
+https://i.mjh.nz/sbs-world-movies.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+
+
+
+
+
 
 
 
