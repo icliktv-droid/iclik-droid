@@ -1,15 +1,15 @@
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="EVENT BOLA INDO", INDOSIAR Digital
 #http://iptvtree.net:8080/F14995/a84c0963/162138
 #http://xtv.ooo:8080/owais1/12345/350972
-#EXTINF:0 tvg-id="" tvg-name="INFO"  tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="TV Nasional Indonesia",INDOSIAR 1
+#EXTINF:0 tvg-id="" tvg-name="INFO"  tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="EVENT BOLA INDO",INDOSIAR 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 #http://fastserver.my.id:8080/play/p7M2Yp6F8FBz249PUQPRzskyrR98UXHe9FL_m7VFheY/ts
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="Coppa",INDOSIAR 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 #https://play.gachor99.my.id/roni/jimbaran/8
-#EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR 1
+#EXTINF:-1 group-title="EVENT BOLA INDO" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR 1
 http://xtv.ooo:8080/live/83212539/43153928/350972.ts
-#EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR 2
+#EXTINF:-1 group-title="EVENT BOLA INDO" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR 2
 #http://iptvtree.net:8080/e891d265/89d742c3/162138
 #EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="PREMIUM",WELCOME TO KINGINDOTV
 http://fastserver.my.id:8080/play/p7M2Yp6F8FBz249PUQPRzskyrR98UXHe9FL_m7VFheY/ts
