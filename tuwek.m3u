@@ -1,507 +1,992 @@
 
-  #EXTM3U #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;
-  x64; rv:101.0) Gecko/20100101 Firefox/101.0
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[{
-  "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw",
-  "kid":"s8z3OnpmT4WudBE2f/svpw" }], "type":"temporary" }
-  #EXTINF:-1 group-title="Astro" tvg-logo="",Astro Supersport
-  https://sooka.openwindow040.workers.dev/https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;
-  x64; rv:101.0) Gecko/20100101 Firefox/101.0
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[{
-  "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ",
-  "kid":"jx2jmTJSR+ymrN17r7lfog" }], "type":"temporary" }
-  #EXTINF:-1 group-title="Astro" tvg-logo="",Astro Supersport 2
-  https://sooka.openwindow040.workers.dev/https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;
-  x64; rv:101.0) Gecko/20100101 Firefox/101.0
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[{
-  "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ",
-  "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
-  #EXTINF:-1 group-title="Astro" tvg-logo="",Astro Supersport 3
-  https://sooka.openwindow040.workers.dev/https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;
-  x64; rv:101.0) Gecko/20100101 Firefox/101.0
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[{
-  "kty":"oct", "k":"+xL2YdZA5OvfOOMSMCJg6w",
-  "kid":"vaf3S4QvTw6xQjldrdkfBw" }], "type":"temporary" }
-  #EXTINF:-1 group-title="Astro" tvg-logo="",Astro Supersport 4
-  https://sooka.openwindow040.workers.dev/https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
-  #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-  #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-  #EXTINF:-1 group-title="DAZN" ,Play Sports 1
-  https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-051/stream.mpd
-  #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-  #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-  #EXTINF:-1 group-title="DAZN" ,Play Sports 2
-  https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd
-  #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-  #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-  #EXTINF:-1 group-title="DAZN" ,Play Sports 3
-  https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd
-  #EXTINF:-1 group-title="Eclat Media" tvg-logo="",SPOTV
-  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;
-  x64; rv:101.0) Gecko/20100101 Firefox/101.0
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"IT9Di9SWHNqYfUG38VTx5Q",
-  "kid":"5g7Ojw2QQvy1JQgFXsSOXg" } ], "type":"temporary" }
-  https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-  #EXTINF:-1 group-title="Eclat Media" tvg-logo="",SPOTV 2
-  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;
-  x64; rv:101.0) Gecko/20100101 Firefox/101.0
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"O8bEVyLrX6ezQ96b_8T3xw",
-  "kid":"5u0_326fSR2erRCfwLAM_A" } ], "type":"temporary" }
-  https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-  #EXTINF:-1 group-title="HBO" tvg-logo="",Cinemax
-  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;
-  x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0
-  Safari/537.36
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"LG3nlpVHef1vUVhEJayDTg",
-  "kid":"tIkTazSqQWapyZhPGRVdMA" } ], "type":"temporary" }
-  https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
-  #EXTINF:-1 group-title="HBO" tvg-logo="",HBO
-  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;
-  x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0
-  Safari/537.36
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"49LkhD_631EPbJFmigPhgw",
-  "kid":"If_KEIEFQq-XNLgvQADCdA" } ], "type":"temporary" }
-  https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
-  #EXTINF:-1 group-title="HBO" tvg-logo="",HBO Family
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjU5ZmQ6ODRlMjoxMGE6ODNlNyIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiSEJPRmFtaWx5SEQiLCJzaWduYXR1cmVLZXkiOiI0NTBlZDk1YjI1ZWI0MGE5NTVmMDQxMjQ1YzViMzJlOCIsInByb3ZpZGVyIjoiZm0iLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyMjI0Mjk1NH0
-  https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
-  #EXTINF:-1 group-title="HBO" tvg-logo="",HBO Hits
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjU5ZmQ6ODRlMjoxMGE6ODNlNyIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiSEJPSGl0c0hEIiwic2lnbmF0dXJlS2V5IjoiZTlkOWI3NjAzNmVjMGIwNTliYWU5Y2E3YzAzMGU1ZGQiLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjIyNDI5NTR9
-  https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
-  #EXTINF:-1 group-title="HBO" tvg-logo="",HBO Signature
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjU5ZmQ6ODRlMjoxMGE6ODNlNyIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiSEJPU2lnbmF0dXJlSEQiLCJzaWduYXR1cmVLZXkiOiI5ZGY5YjkxMWM1NDY5MDU1MzA0ZTlhMWE3YTA1MWI2NCIsInByb3ZpZGVyIjoiZm0iLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyMjI0Mjk1NH0
-  https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
-  #EXTINF:-1 group-title="KG Group" tvg-logo="",Kompas TV
-  #EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87
-  ExoPlayerLib/2.19.1 https://flv.intechmedia.net/live/ch102.m3u8
-  #EXTINF:-1 group-title="Medcom" tvg-logo="",Magna Channel
-  https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-  #EXTINF:-1 group-title="Medcom" tvg-logo="",Metro Globe Network
-  https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-  #EXTINF:-1 group-title="Medcom" tvg-logo="",Metro TV
-  http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
-  #EXTINF:-1 group-title="NBC" tvg-logo="",NBC Golf
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key=d5c9203447ab38c5bf5b407cdd9de5e8:501464dfa2ac437098c35e1c4f16bb6b
-  https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd
-  #EXTINF:-1 group-title="NBC" tvg-logo="",NBC USA
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-  https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
-  #EXTINF:-1 group-title="NBC" tvg-logo="",Telemundo
-  #KODIPROP:inputstream.adaptive.license_type=oclearkey
-  #KODIPROP:inputstream.adaptive.license_key=e1f756cffcc838e28a3da6541c00ee8b:1444b1c17a5c1f78435de12dcff47c8e
-  https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WNJU)/master.mpd
-  #EXTINF:-1 group-title="NBC" tvg-logo="",Universo
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
-  https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
-  #EXTINF:-1 group-title="NBC" tvg-logo="",USA Network
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-  https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-  #EXTINF:-1 group-title="Netmediatama" tvg-logo="",NET.
-  #EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87
-  ExoPlayerLib/2.19.1 https://flv.intechmedia.net/live/ch114.m3u8
-  #EXTINF:-1 group-title="Rajawali" tvg-logo="",RTV
-  #EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87
-  ExoPlayerLib/2.19.1 https://flv.intechmedia.net/live/ch115.m3u8
-  #EXTINF:-1 group-title="Rock EH" tvg-logo="",Rock Action
-  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;
-  x64; rv:101.0) Gecko/20100101 Firefox/101.0
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"0bRzerQfDarnM_EaS4T6Ag",
-  "kid":"mec28XCxSP-xbQrWyPk-9A" } ], "type":"temporary" }
-  https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
-  #EXTINF:-1 group-title="Rock EH" tvg-logo="",Rock Entertainment
-  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;
-  x64; rv:101.0) Gecko/20100101 Firefox/101.0
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"mFZhVcJXRigJqHBfXv14GQ",
-  "kid":"VGjnGYRtTdStxZ6FMSN16A" } ], "type":"temporary" }
-  https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
-  #EXTINF:-1 group-title="Sky" tvg-logo="",Premier Sports 1
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #KODIPROP:inputstream.adaptive.manifest_type=dash
-  #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-  #KODIPROP:inputstream.adaptive.license_key=0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
-  https://skytest.starlive.workers.dev/https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd
-  #EXTINF:-1 group-title="Sky" tvg-logo="",Premier Sports 2
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #KODIPROP:inputstream.adaptive.manifest_type=dash
-  #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-  #KODIPROP:inputstream.adaptive.license_key=0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
-  https://skytest.starlive.workers.dev/https://linear031-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
-  #EXTINF:-1 group-title="Sky" tvg-logo="",Sky Sports Arena
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key=000516903d55e9706d1661c489ee94da:acf37edb85d8a99a8cfb8ed5e3e9acf2
-  https://skytest.starlive.workers.dev/http://linear031-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsarena)/manifest_720.mpd
-  #EXTINF:-1 group-title="Sky" tvg-logo="",Sky Sports Cricket
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #KODIPROP:inputstream.adaptive.manifest_type=dash
-  #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-  #KODIPROP:inputstream.adaptive.license_key=00053ac1e9b1231eed3eb4e3540b3ae1:0f03d8541826af3d9acbac975d751165
-  https://skytest.starlive.workers.dev/https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd
-  #EXTINF:-1 group-title="Sky" tvg-logo="",Sky Sports F1
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #KODIPROP:inputstream.adaptive.manifest_type=dash
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key=0005c0635a06a943911f666abcef3923:749cae7fc7f350be6ba7400f11150ea9
-  https://skytest.starlive.workers.dev/https://linear005-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsf1)/manifest_720.mpd
-  #EXTINF:-1 group-title="Sky" tvg-logo="",Sky Sports Football
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #KODIPROP:inputstream.adaptive.manifest_type=dash
-  #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-  #KODIPROP:inputstream.adaptive.license_key=0005c37ab85893a379c1e1e5ed60fcf0:b60a9aa6c55026adfc3f47136ce64924
-  https://skytest.starlive.workers.dev/https://linear019-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsfootball)/manifest_720-120.mpd
-  #EXTINF:-1 group-title="Sky" tvg-logo="",Sky Sports Golf
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key=0005f065b6b710a9d4769fb357e2027b:f26593b44feb0a043b1d6e090ce27a75
-  https://skytest.starlive.workers.dev/https://linear003-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsgolf)/manifest_720.mpd
-  #EXTINF:-1 group-title="Sky" tvg-logo="",Sky Sports Main Event
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #KODIPROP:inputstream.adaptive.manifest_type=dash
-  #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-  #KODIPROP:inputstream.adaptive.license_key=000546476256963bd054ded3b6ae5800:1e497068bcc078fdb2f4296bc400ca2b
-  https://skytest.starlive.workers.dev/https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd
-  #EXTINF:-1 group-title="Sky" tvg-logo="",Sky Sports Mix
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #KODIPROP:inputstream.adaptive.manifest_type=dash
-  #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-  #KODIPROP:inputstream.adaptive.license_key=00052237a76cdb0eb5fcbccf4c16f658:4e42c0a0ecf6e534426fbb21525c1911
-  https://skytest.starlive.workers.dev/https://linear034-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmix)/manifest_720.mpd
-  #EXTINF:-1 group-title="Sky" tvg-logo="",Sky Sports Premier
-  League #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #KODIPROP:inputstream.adaptive.manifest_type=dash
-  #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-  #KODIPROP:inputstream.adaptive.license_key=00058832b1c058c3de8b5d118cc775d4:721345f25729d236d6bb317fce797b77
-  https://skytest.starlive.workers.dev/https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportspremierleague)/manifest_720.mpd
-  #EXTINF:-1 group-title="Sky" tvg-logo="",Sky Sports Tennis
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key=00032023ad4896139b22a071d6c1183c:e0c6c1454bb792b843f085be9999c9da
-  https://skytest.starlive.workers.dev/https://linear014-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportstennis)/manifest_720.mpd
-  #EXTINF:-1 group-title="Sky" tvg-logo="",TNT Sports 1
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #KODIPROP:inputstream.adaptive.manifest_type=dash
-  #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-  #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-  https://skytest.starlive.workers.dev/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-  #EXTINF:-1 group-title="Sky" tvg-logo="",TNT Sports 2
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #KODIPROP:inputstream.adaptive.manifest_type=dash
-  #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-  #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-  https://skytest.starlive.workers.dev/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-  #EXTINF:-1 group-title="Sky" tvg-logo="",TNT Sports 3
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #KODIPROP:inputstream.adaptive.manifest_type=dash
-  #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-  #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-  https://skytest.starlive.workers.dev/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-  #EXTINF:-1 group-title="Sky" tvg-logo="",TNT Sports 4
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #KODIPROP:inputstream.adaptive.manifest_type=dash
-  #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-  #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-  https://skytest.starlive.workers.dev/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-  #EXTINF:-1 group-title="Sky" tvg-logo="",TNT Sports 5
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #KODIPROP:inputstream.adaptive.manifest_type=dash
-  #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-  #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-  https://skytest.starlive.workers.dev/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
-  #EXTINF:-1 group-title="Sony PT" tvg-logo="",Animax
-  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;
-  x64; rv:101.0) Gecko/20100101 Firefox/101.0
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"yobZ_a1qjpscEzaNc04glQ",
-  "kid":"7MW8Di3sS5SV2xRyePs5BA" } ], "type":"temporary" }
-  https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
-  #EXTINF:-1 group-title="Sony PT" tvg-logo="",AXN
-  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;
-  x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0
-  Safari/537.36
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"uyNqsrGYwv_XIoF7-nTNCA",
-  "kid":"t7ABJIlNTx-LkfunkWC4lg" } ], "type":"temporary" }
-  https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
-  #EXTINF:-1 group-title="Transmedia" tvg-logo="",CNBC Indonesia
-  https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
-  #EXTINF:-1 group-title="Transmedia" tvg-logo="",CNN Indonesia
-  https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
-  #EXTINF:-1 group-title="Transmedia" tvg-logo="",Trans 7
-  https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-  #EXTINF:-1 group-title="Transmedia" tvg-logo="",Trans TV
-  https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-  #EXTINF:-1 group-title="tvN" tvg-logo="",tvN
-  #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-  #EXTVLCOPT:http-referrer=http://dens.tv
-  http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8 #EXTINF:-1
-  group-title="tvN" tvg-logo="",tvN Movies
-  #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-  #EXTVLCOPT:http-referrer=http://dens.tv
-  http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8 #EXTINF:-1
-  group-title="TVRI" tvg-logo="",TVRI Nasional
-  https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-  #EXTINF:-1 group-title="TVRI" tvg-logo="",TVRI Sport
-  https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-  #EXTINF:-1 group-title="TVRI" tvg-logo="",TVRI World
-  https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-  #EXTINF:-1 group-title="UniFi" tvg-logo="",beIN Sports
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #KODIPROP:inputstream.adaptive.manifest_type=dash
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"-05tPCpETDcRR3Q4vMC1_A",
-  "kid":"jlyIwa1BHOSqH80-Y_qUSA" } ], "type":"temporary" }
-  https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&amp;zoneoffset=0&amp;servicetype=1&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVIq%2FzwD5xYAe8dI3PltEQ%2BUrcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV55456338%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&amp;GuardEncType=2&amp;it=H4sIAAAAAAAAADWOQY_CIBSE_w1HApSqPXByY2Jiqol1r-YBD2xKi0I18d_brt25vZn5XmZMYHD_o4oNc9pVVsvSSF45raWoDCvEdBQlSpLxUUcliIEQ2sHX0c7Y73l75YwyKgSnXJBmfrcL4Jdm_ew1JlX8Y2dMr9agstnRF2QK3if0MLZxoKcA70sKS4Vgs0zjq3W5qpicJNZknN0Gcjcl5AZ5G_s7JLSH6P8A5SBkJHcwHXisoUc1PEP4csdkpzUfwVvnv_QAAAA&amp;tenantId=6001
-  #EXTINF:-1 group-title="UniFi" tvg-logo="",beIN Sports 2
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #KODIPROP:inputstream.adaptive.manifest_type=dash
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"97HWVWhQtHL09oNRn05B9w",
-  "kid":"HJg-WgOw-K3eaG7yBJfitA" } ], "type":"temporary" }
-  https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227971/3221227971.mpd?rrsip=web.hypp.tv:443&amp;zoneoffset=0&amp;servicetype=1&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVv%2FaciHRqnNnDuZfWMEk6l0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV59922231%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&amp;GuardEncType=2&amp;it=H4sIAAAAAAAAADWPQU-EMBSE_02PDX2LUA49rdnExKDJolcztI9KttC1ZTfx3wuKc3wz38vMkmD56dEMKEB1rQlDX6raNWh6TfqAinRflVZk_mqjIWERwjj7NroNez8fP1QhC0mkpCLRbe9OAX5Ptrep52QO_9iZ0320bFwe5B1ZwvvEHssYZ_ka8P2Wwh4R3O3VVFU_VE1RriItlu3aIV9WR3wiH-N0RWL3HP0vsC4JmcUV9gLPLSY28y2EP-4lubXND5_xMYT0AAAA&amp;tenantId=6001
-  #EXTINF:-1 group-title="UniFi" tvg-logo="",beIN Sports 3
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #KODIPROP:inputstream.adaptive.manifest_type=dash
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"SXm3NgO0MEZapOe73vvEzA",
-  "kid":"DSQYzGopo1FtGFSrKXPyXw" } ], "type":"temporary" }
-  https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&amp;zoneoffset=0&amp;servicetype=1&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUDhVRD65aYf%2BjyDsSSHpLfkrcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV55456355%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&amp;GuardEncType=2&amp;it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhpYCeuhJY2Ji0AT0atbtUomFagsm_r2ieJ2ZN3lDAKTtWjeXQmUyRcpypVCYJaIiVAmmgFlDgkV6lF5LhuBc29vSmwk7VauzSHjCpRRcSFZPdxsHdl6WY3ehoNM_VlF4tkjaxIY_IXKwNpCFofU9Pzh4HYObJ4zqWU3kRZYvE1VIpRZsmNIa4u3TsCvEle_uEMjsvP0CugEXid0Bb2CphI50Pzr34_bBfGzeA19EPPQAAAA&amp;tenantId=6001
-  #EXTINF:-1 group-title="UniFi" tvg-logo="",beIN Sports 4
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
-  #KODIPROP:inputstream.adaptive.manifest_type=dash
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"nW94h2Z3tUPNThjIRqokgQ",
-  "kid":"lGY-ZO-B6Qqd7rDxmTzhHA" } ], "type":"temporary" }
-  https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&amp;zoneoffset=0&amp;servicetype=1&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&amp;GuardEncType=2&amp;it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&amp;tenantId=6001
-  #EXTINF:-1 group-title="VIVA" tvg-logo="",tvOne
-  #EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87
-  ExoPlayerLib/2.19.1 https://flv.intechmedia.net/live/ch109.m3u8
-  #EXTINF:-1 group-title="VIVA" tvg-logo="",ANTV
-  #EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87
-  ExoPlayerLib/2.19.1 https://flv.intechmedia.net/live/ch108.m3u8
-  #EXTINF:-1 group-title="VIVA" tvg-logo="",VTV
-  #EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87
-  ExoPlayerLib/2.19.1 https://flv.intechmedia.net/live/ch107.m3u8
-  #EXTINF:-1 group-title="Vidio" tvg-logo="",Indosiar
-  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;
-  x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0
-  Safari/537.36
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"iBr6Z-pXtBwYItdF1nVZ5g",
-  "kid":"Xq3czYk6R6yLZfmzGWOjrg" } ], "type":"temporary" }
-  https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-  #EXTINF:-1 group-title="Vidio" tvg-logo="",Moji
-  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;
-  x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0
-  Safari/537.36
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"TVGqAwSvmMRJ_ewVSKGZ-Q",
-  "kid":"BShh6-2rRzCJ0OdIDQxbYw" } ], "type":"temporary" }
-  https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
-  #EXTINF:-1 group-title="Vidio" tvg-logo="",SCTV
-  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;
-  x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0
-  Safari/537.36
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"TUcy2T5nIN4O-ITXEG4U9w",
-  "kid":"p5oYgmNyS_yq_Ep8OzzYzg" } ], "type":"temporary" }
-  https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
-  #EXTINF:-1 group-title="Vision+" tvg-logo="",GTV
-  #EXTVLCOPT:http-referrer=https://visionplus.id
-  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-  #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-  https://melon-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-  #EXTINF:-1 group-title="Vision+" tvg-logo="",iNews
-  #EXTVLCOPT:http-referrer=https://visionplus.id
-  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-  #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-  https://melon-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-  #EXTINF:-1 group-title="Vision+" tvg-logo="",MNCTV
-  #EXTVLCOPT:http-referrer=https://visionplus.id
-  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-  #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-  https://melon-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-  #EXTINF:-1 group-title="Vision+" tvg-logo="",RCTI
-  #EXTVLCOPT:http-referrer=https://visionplus.id
-  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-  #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-  https://melon-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-  #EXTINF:-1 group-title="Vision+" tvg-logo="",Cinema World HD
-  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-  #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-  #EXTVLCOPT:http-referrer=https://visionplus.id
-  https://melon-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-  #EXTINF:-1 group-title="Vision+" tvg-logo="",Galaxy
-  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-  #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-  #EXTVLCOPT:http-referrer=https://visionplus.id
-  https://melon-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
-  #EXTINF:-1 group-title="Vision+" tvg-logo="",Galaxy Premium
-  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-  #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-  #EXTVLCOPT:http-referrer=https://visionplus.id
-  https://melon-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
-  #EXTINF:-1 group-title="Vision+" tvg-logo="",HITS
-  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-  #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-  #EXTVLCOPT:http-referrer=https://visionplus.id
-  https://melon-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-  #EXTINF:-1 group-title="Vision+" tvg-logo="",HITS Movies
-  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-  #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-  #EXTVLCOPT:http-referrer=https://visionplus.id
-  https://melon-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-  #EXTINF:-1 group-title="Vision+" tvg-logo="",IMC
-  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-  #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-  #EXTVLCOPT:http-referrer=https://visionplus.id
-  https://melon-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
-  #EXTINF:-1 group-title="Vision+" tvg-logo="",Soccer Channel
-  #EXTVLCOPT:http-referrer=https://visionplus.id
-  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-  #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-  https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-  #EXTINF:-1 group-title="Vision+" tvg-logo="",Sportstars
-  #EXTVLCOPT:http-referrer=https://visionplus.id
-  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-  #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-  https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-  #EXTINF:-1 group-title="Vision+" tvg-logo="",Sportstars 2
-  #EXTVLCOPT:http-referrer=https://visionplus.id
-  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-  #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-  https://melon-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-  #EXTINF:-1 group-title="Vision+" tvg-logo="",Sportstars 3
-  #EXTVLCOPT:http-referrer=https://visionplus.id
-  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-  #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-  https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-  #EXTINF:-1 group-title="Vision+" tvg-logo="",Sportstars 4
-  #EXTVLCOPT:http-referrer=https://visionplus.id
-  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-  #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-  https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-  #EXTINF:-1 group-title="Warner Bros" tvg-logo="",Asian Food
-  Network #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0;
-  Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"WZg8WMGw2qHcw3D2l8yurQ",
-  "kid":"Nn+b9NBoTxCddKnuto0yvg" } ], "type":"temporary" }
-  https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
-  #EXTINF:-1 group-title="Warner Bros" tvg-logo="",DMAX
-  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;
-  x64; rv:101.0) Gecko/20100101 Firefox/101.0
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"Moz+1Ry6G/pB8b2iGc7v+A",
-  "kid":"YvrpNekcTo2eg1opTqgZCQ" } ], "type":"temporary" }
-  https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
-  #EXTINF:-1 group-title="Warner Bros" tvg-logo="",Discovery Asia
-  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;
-  x64; rv:101.0) Gecko/20100101 Firefox/101.0
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"uweOMvbfFMqXv/W4rujK9Q",
-  "kid":"J8igjqvNS7yI7aNpDL9qrw" } ], "type":"temporary" }
-  https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
-  #EXTINF:-1 group-title="Warner Bros" tvg-logo="",Discovery
-  Channel #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0;
-  Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"U7st5POk7YRmHk/FJ6H8CQ",
-  "kid":"AM/zNYmmRo65jk23qtRsoA" } ], "type":"temporary" }
-  https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
-  #EXTINF:-1 group-title="Warner Bros" tvg-logo="",HGTV
-  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;
-  x64; rv:101.0) Gecko/20100101 Firefox/101.0
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"/3qJ8AimJmTl69ghGHKW0Q",
-  "kid":"TT1wKYqPRC+d7nwRpHw+3w" } ], "type":"temporary" }
-  https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
-  #EXTINF:-1 group-title="Test HBO" tvg-logo="",HBO
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key=39a424d1b79e3b77bf6eaac3f3221f7e:7804e43828e094bd49e3d4df443eea11
-  https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
-  #EXTINF:-1 group-title="Test HBO" tvg-logo="",HBO Family
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key=3e0b88044bbb3512a3d0027764314783:52843f20db4bbf45d594b6be310f81c1
-  https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
-  #EXTINF:-1 group-title="Test HBO" tvg-logo="",HBO Hits
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key=a1e570be4c63326aa95ea53eb5be2699:f9d709f24054472ab7f53c758cf45c94
-  https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
-  #EXTINF:-1 group-title="Test HBO" tvg-logo="",HBO Signature
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key=90674eee11703150bc2df4bc9a2cbae5:c4b574fa201da00d54bcea4901bb4171
-  https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
-  #EXTINF:-1 group-title="Test HBO" tvg-logo="",Cinemax
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key=ad90306387ee369eb2a6de02869c7653:4b17755fdea3ca0277bb64a1e9fbecef
-  https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
-  #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/hbo.png"
-  group-title="Movies",HBO (FMX)
-  https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjcwZWI6ZWE4ZTozMjgxOmM3ODYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6IkhCT0ZhbWlseUhEIiwic2lnbmF0dXJlS2V5IjoiNDUwZWQ5NWIyNWViNDBhOTU1ZjA0MTI0NWM1YjMyZTgiLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjI1ODQ1MDd9
-  #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/hbofamily.png"
-  group-title="Movies",HBO Family (FMXIPTV))
-  https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjcwZWI6ZWE4ZTozMjgxOmM3ODYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6IkhCT0hpdHNIRCIsInNpZ25hdHVyZUtleSI6ImU5ZDliNzYwMzZlYzBiMDU5YmFlOWNhN2MwMzBlNWRkIiwicHJvdmlkZXIiOiJmbSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzIyNTg0NTA3fQ
-  #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/hbohits.png"
-  group-title="Movies",HBO Hits (FMXIPTV)
-  https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjcwZWI6ZWE4ZTozMjgxOmM3ODYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6IkhCT1NpZ25hdHVyZUhEIiwic2lnbmF0dXJlS2V5IjoiOWRmOWI5MTFjNTQ2OTA1NTMwNGU5YTFhN2EwNTFiNjQiLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjI1ODQ1MDd9
-  #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/hbosig.png"
-  group-title="Movies",HBO Signature (FMXIPTV)
-  https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
-  #EXTINF:-1 group-title="Movies" tvg-logo="",Cinemax
-  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;
-  x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0
-  Safari/537.36
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-  #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {
-  "kty":"oct", "k":"LG3nlpVHef1vUVhEJayDTg",
-  "kid":"tIkTazSqQWapyZhPGRVdMA" } ], "type":"temporary" }
-  https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
+#EXTM3U
+
+
+##########################
+######## CHANNEL | INDONESIA 
+##################################
+
+CH TIARA™
+//========================================================================
+#EXTM3
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgXb9_gCEymgRCBeg9UU3xFnUfwm2QUlewCH1OqeA1We-rFBYh93Xae_8qc0QwG-fhxrNpuf4_qxL7b6bPZhd_gEtszqpXmc9i-t22UYx97II4L76_qAiSWrmd7Q9_tH42XewcOvHjE11T4tM3R-r1Z0l_MMOb6XyKNx39z-nqPmZYQ9oXNb5CB4Kj_=s720",SOCCERCHANNEL
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ97aWZrhgAEl08f7Sc6oZCpW1rJmvoaEzomk8Jte7X8sDW2tg01KLW2FE&s=10",SPOTV
+http://103.156.141.151:4567/stream/channelid/468795732?profile=pass
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgiMXGcntM9tUmrITpDc94gHawh-jTGXS8-te2GlYsT1L9xgh2GxgNzU6w&s=10",SPOTV 2
+http://103.156.141.151:4567/stream/channelid/1638978261?profile=pass
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/Evo/refs/heads/main/channel_102.png",STARSPORT¹
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/Evo/refs/heads/main/channel_98.png",STARSPORT2
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/Evo/refs/heads/main/images%20(1).jpeg",PERSIJA TV
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",SUPERSPORT PREMIERE LEAGUE
+http://103.156.141.151:4567/stream/channelid/664566282?profile=pass
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",CHAMPIONTV3
+http://103.156.141.151:4567/stream/channelid/1414915908?profile=pass
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_rodjatv_small1.png?v=2.0.0.13",CHAMPIONTV5
+http://103.156.141.151:4567/stream/channelid/444403166?profile=pass
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13",CHAMPIONTV6
+http://103.156.141.151:4567/stream/channelid/2132429597?profile=pass
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_tv9_small.png?v=2.0.0.13",SUPERPORT MAXIMO
+http://103.156.141.151:4567/stream/channelid/825561667?profile=pass
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",SUPERSPORT LALIGA
+http://103.156.141.151:4567/stream/channelid/895154667?profile=pass
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_imc_small.png",USA EPL
+http://103.156.141.151:4567/stream/channelid/1039687709?profile=pass
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png",SPORT TV 1ⓧ FHD
+http://103.156.141.151:4567/stream/channelid/1529470438?profile=pass
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_galaxy_small.png",SPORT TV 2ⓧ FHD
+http://103.156.141.151:4567/stream/channelid/412280276?profile=pass
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",Eurosport 1 FHD
+http://103.156.141.151:4567/stream/channelid/1951612046?profile=pass
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",Eurosport 2 FHD
+http://103.156.141.151:4567/stream/channelid/187605082?profile=pass
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png",CELESTIAL MOVIE
+https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_mycinema_ver1.png",MY CINEMA
+https://cdn09jtedge.indihometv.com/joss/133/mycinema/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_small.png",CINEMAWORLD
+https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png",CNBC INDONESIA
+https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png",CNN INTERNATIONAL
+https://cdn09jtedge.indihometv.com/joss/133/cnnindonesia/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png",TVN
+https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_history_ver3.png",HISTORY
+https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_dunialain_small.png?v=2.0.0.13",DUNIA LAIN
+https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",CITRA DRAMA
+https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13",ONE
+https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",KIX
+https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_kungfutv_small.png",KUNGFU TV
+https://cdn09jtedge.indihometv.com/joss/130/kungfutv/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13",GEM
+https://cdn09jtedge.indihometv.com/joss/133/sgem/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png",ZHEJIANG TV
+https://cdn09jtedge.indihometv.com/joss/130/zhejiang/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_shenzen_small.png",SHENZEN TV
+https://cdn09jtedge.indihometv.com/joss/130/shenzen/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
+https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_horee_ver1.png",HOREE
+https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_disco_ver1.png",DISCOVERY
+https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_techstorm_ver1.png",TECHSTORM
+https://cdn09jtedge.indihometv.com/joss/133/techstorm/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png",CRIME INVESTIGATION
+https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_pandatv_small.png",PANDA TV
+https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_hgtv_ver1.png",HGTV
+https://cdn09jtedge.indihometv.com/joss/133/hg/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_eatgo_small1.png?v=2.0.0.13",EAT&GO
+https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_citradangdut_ver1.png",CITRA DANGDUT
+https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13",INSERT
+https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_nickjr_ver1.png",NICKJR
+https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_net_ver1.png",NET
+https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_daaitv_small1.png?v=2.0.0.13",DAAI TV
+https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
+https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png?v=2.0.0.13",LOVE NATURE
+https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13",ANIMAL PLANET
+https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png?v=2.0.0.13",DISCOVERY ASIA
+https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_duniaanak_small1.png?v=2.0.0.13",DUNIA ANAK
+https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW
+https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
+https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
+
+::::::::DSTV TIARA
+
+Supersport.jpg" group-title="DSTV||SUPERSPORT", SuperSport LaLiga 
+http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/217830 
+#EXTINF:-1  tvg-logo="BENE KOSONG SEK" group-title="DSTV||SUPERSPORT", SuperSport Motorsport 
+http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/217831
+#EXTINF:-1  tvg-logo="BENE KOSONG SEK" group-title="DSTV||SUPERSPORT", SuperSport Rugby 
+http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/217832 
+#EXTINF:-1  tvg-logo="BENE KOSONG SEK" group-title="DSTV||SUPERSPORT", SuperSport Tennis 
+http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/217833 
+#EXTINF:-1  tvg-logo="BENE KOSONG SEK" group-title="DSTV||SUPERSPORT", SuperSport Variety 1 
+http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/217834 
+#EXTINF:-1  tvg-logo="BENE KOSONG SEK" group-title="DSTV||SUPERSPORT", SuperSport Variety 2 
+http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/217835 
+#EXTINF:-1  tvg-logo="BENE KOSONG SEK" group-title="DSTV||SUPERSPORT", SuperSport Variety 3 
+http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/217836 
+#EXTINF:-1  tvg-logo="BENE KOSONG SEK" group-title="DSTV||SUPERSPORT", SuperSport Variety 4 
+http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/217837
+
+
+
+========================================================= MOVIES TIARA™=======================================================================
+=========================================================================================================================================
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_7.png" group-title="Movies",Cinemachi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_6.png" group-title="Movies",Cinemachi Xtra
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd|Referer=https://www.visionplus.id/
+ 
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_10.png" group-title="Movies",Cinemachi Max
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_9.png" group-title="Movies",Cinemachi Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_8.png" group-title="Movies",Cinemachi Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_163.png" group-title="Movies",Paramount Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=faa79feb03b3ebf0e4566e649cb938f0:2d5e77223719fb1af573cbeab56bb16a
+https://d1abp075u76pbq.cloudfront.net/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_248.png" group-title="Movies",Rock Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
+https://d1abp075u76pbq.cloudfront.net/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_415.png" group-title="Movies",TVN Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
+https://d1abp075u76pbq.cloudfront.net/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="Movies",Celestial Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
+https://d1abp075u76pbq.cloudfront.net/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="Movies",CCM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
+https://d1abp075u76pbq.cloudfront.net/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="Movies",Thrill
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
+https://d1abp075u76pbq.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/zYeuqW9.png" group-title="Movies",Cinema World HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
+https://d1abp075u76pbq.cloudfront.net/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" group-title="Movies",HITS Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
+https://d1abp075u76pbq.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Movies",IMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
+https://d1abp075u76pbq.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Movies",Galaxy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
+https://d1abp075u76pbq.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="Movies",Galaxy Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
+https://d1abp075u76pbq.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_15.jpg" group-title="Movies",My Family Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://d1abp075u76pbq.cloudfront.net/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_16.jpg" group-title="Movies",My Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://d1abp075u76pbq.cloudfront.net/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_17.jpg" group-title="Movies",My Cinema Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://d1abp075u76pbq.cloudfront.net/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_23.png" group-title="Movies",Zee Bioskop
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
+https://d1abp075u76pbq.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd|Referer=https://www.visionplus.id/
+
+
+
+#EXTM3
+#EXTINF:0 type="stream" channelId="-1", Indosiar,group-title="CH TIARA¹",INDOSIAR
+http://103.156.141.151:4567/stream/channelid/1245877301?profile=pass
+#EXTINF:0 type="stream" channelId="-1", SCTV, group-title="CH TIARA¹",SCTV
+http://103.156.141.151:4567/stream/channelid/1680651630?profile=pass
+#EXTINF:0 type="stream" channelId="-1", SCTV HD, group-title="CH TIARA¹",SCTV HD
+http://103.156.141.151:4567/stream/channelid/112855664?profile=pass
+#EXTINF:0 type="stream" channelId="-1", ANTV, group-title="CH TIARA¹",ANTV
+http://103.156.141.151:4567/stream/channelid/1657698380?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Trans TV, group-title="CH TIARA¹",TRANSTV
+http://103.156.141.151:4567/stream/channelid/1137678123?profile=pass
+#EXTINF:0 type="stream" channelId="-1", TransTV HD, group-title="CH TIARA¹",TRANTV HD
+http://103.156.141.151:4567/stream/channelid/1769979321?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Trans 7, group-title="CH TIARA¹",TRANS 7
+http://103.156.141.151:4567/stream/channelid/578595906?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Trans7 HD, group-title="CH TIARA¹",TRAN7 HD
+http://103.156.141.151:4567/stream/channelid/1353003054?profile=pass
+#EXTINF:0 type="stream" channelId="-1", TV One, group-title="CH TIARA¹",TV ONE
+http://103.156.141.151:4567/stream/channelid/220042554?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Metro TV, group-title="CH TIARA¹",METRO TV
+http://103.156.141.151:4567/stream/channelid/2021368551?profile=pass
+#EXTINF:0 type="stream" channelId="-1", METRO TV HD, group-title="CH TIARA¹",METROTV HD
+http://103.156.141.151:4567/stream/channelid/605494049?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Net TV, group-title="CH TIARA¹",NET TV
+http://103.156.141.151:4567/stream/channelid/666401500?profile=pass
+#EXTINF:0 type="stream" channelId="-1", RTV, group-title="CH TIARA¹",RTV
+http://103.156.141.151:4567/stream/channelid/995376651?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Net TV HD, group-title="CH TIARA¹",NETTV HD
+http://103.156.141.151:4567/stream/channelid/1145381301?profile=pass
+#EXTINF:0 type="stream" channelId="-1", JTV Surabaya, group-title="CH TIARA¹",JTV
+http://103.156.141.151:4567/stream/channelid/66077942?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Nusantara TV, group-title="CH TIARA¹",NUSANTARATV
+http://103.156.141.151:4567/stream/channelid/54965941?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Berita Satu, group-title="CH TIARA¹",BERITA SATU
+http://103.156.141.151:4567/stream/channelid/1562803857?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Kompas TV, group-title="CH TIARA¹",KOMPAS TV
+http://103.156.141.151:4567/stream/channelid/385541231?profile=pass
+#EXTINF:0 type="stream" channelId="-1", TVRI, group-title="CH TIARA¹",TVRI
+http://103.156.141.151:4567/stream/channelid/1955896278?profile=pass
+#EXTINF:0 type="stream" channelId="-1", CNBC Indonesia HD, group-title="CH TIARA¹",CNBC
+http://103.156.141.151:4567/stream/channelid/1892942772?profile=pass
+#EXTINF:0 type="stream" channelId="-1", CNN Indonesia HD, group-title="CH TIARA¹",CNBC HD
+http://103.156.141.151:4567/stream/channelid/865777007?profile=pass
+#EXTINF:0 type="stream" channelId="-1", SEA TODAY, group-title="CH TIARA¹",SEA TODAY
+http://103.156.141.151:4567/stream/channelid/782705042?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Daai TV, group-title="CH TIARA¹", DAAI TV
+http://103.156.141.151:4567/stream/channelid/322482914?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Jowo HD, group-title="CH TIARA¹", JOWO HD
+http://103.156.141.151:4567/stream/channelid/781048193?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Antara, group-title="CH TIARA¹", ANTARA
+http://103.156.141.151:4567/stream/channelid/1372340681?profile=pass
+#EXTINF:0 type="stream" channelId="-1", ATV, group-title="CH TIARA¹", ATV
+http://103.156.141.151:4567/stream/channelid/1823948288?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Insert, group-title="CH TIARA¹", INSERT
+http://103.156.141.151:4567/stream/channelid/549622484?profile=pass
+#EXTINF:0 type="stream" channelId="-1", RRI Net, group-title="CH TIARA¹", RRI NET
+http://103.156.141.151:4567/stream/channelid/299405487?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Jak TV, group-title="CH TIARA¹", JAK TV
+http://103.156.141.151:4567/stream/channelid/1511718810?profile=pass
+#EXTINF:0 type="stream" channelId="-1", USee Prime, group-title="CH TIARA¹", USSE PRIME
+http://103.156.141.151:4567/stream/channelid/1484658357?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Mozaik Channel, group-title="CH TIARA¹", MOZAIK CH
+http://103.156.141.151:4567/stream/channelid/1727041441?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Dunia Lain, group-title="CH TIARA¹", DUNIA LAIN
+http://103.156.141.151:4567/stream/channelid/432828376?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Lingua, group-title="CH TIARA¹", LINGUA
+http://103.156.141.151:4567/stream/channelid/586285434?profile=pass
+#EXTINF:0 type="stream" channelId="-1", SPOTV¹, group-title="CH TIARA¹", SPOTV¹
+http://103.156.141.151:4567/stream/channelid/770182179?profile=pass
+#EXTINF:0 type="stream" channelId="-1", SPOTV², group-title="CH TIARA¹", SPOTV²
+http://103.156.141.151:4567/stream/channelid/999072984?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Fight Sport, group-title="CH TIARA¹", FIGHT SPORT
+http://103.156.141.151:4567/stream/channelid/478899243?profile=pass
+#EXTINF:0 type="stream" channelId="-1", HorizonSport, group-title="CH TIARA¹", HORIZON SPORT
+http://103.156.141.151:4567/stream/channelid/1783731541?profile=pass
+#EXTINF:0 type="stream" channelId="-1", DreamWorks, group-title="CH TIARA¹", DREAMWORKS
+http://103.156.141.151:4567/stream/channelid/991394236?profile=pass
+#EXTINF:0 type="stream" channelId="-1", MTV Live, group-title="CH TIARA¹", MTV LIVE
+http://103.156.141.151:4567/stream/channelid/94737268?profile=pass
+#EXTINF:0 type="stream" channelId="-1", T Music, group-title="CH TIARA¹", T MUSIC
+http://103.156.141.151:4567/stream/channelid/1766124352?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Prambors, group-title="CH TIARA¹", PRAMBORS
+http://103.156.141.151:4567/stream/channelid/1438307106?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Citra Drama, group-title="CH TIARA¹", CITRA DRAMA
+http://103.156.141.151:4567/stream/channelid/677383306?profile=pass
+#EXTINF:0 type="stream" channelId="-1", INews, group-title="CH TIARA¹", INEWS
+http://103.156.141.151:4567/stream/channelid/1775364071?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Discovery, group-title="CH TIARA¹", DISCOVERY
+http://103.156.141.151:4567/stream/channelid/462280383?profile=pass
+#EXTINF:0 type="stream" channelId="-1", History Channel, group-title="CH TIARA¹", HISTORY
+http://103.156.141.151:4567/stream/channelid/584521026?profile=pass
+#EXTINF:0 type="stream" channelId="-1", CGTN Documentary, group-title="CH TIARA¹", CGTN
+http://103.156.141.151:4567/stream/channelid/644897556?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Tech Strom , group-title="CH TIARA¹", TECH STROM
+http://103.156.141.151:4567/stream/channelid/1531828589?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Crime & Investigation, group-title="CH TIARA¹", CRIME INVESTIGATION
+http://103.156.141.151:4567/stream/channelid/1553206679?profile=pass
+#EXTINF:0 type="stream" channelId="-1", HBO, group-title="CH TIARA¹", HBO TIARA
+http://103.156.141.151:4567/stream/channelid/145215374?profile=pass
+#EXTINF:0 type="stream" channelId="-1", HBO Signature, group-title="CH TIARA¹", HBO S TIARA
+http://103.156.141.151:4567/stream/channelid/323928926?profile=pass
+#EXTINF:0 type="stream" channelId="-1", HBO Family, group-title="CH TIARA¹", HBO FAMILY
+http://103.156.141.151:4567/stream/channelid/874120324?profile=pass
+#EXTINF:0 type="stream" channelId="-1", HBO Hits, group-title="CH TIARA¹", HBO HITS
+http://103.156.141.151:4567/stream/channelid/1396293580?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Blue Ant Extreme, group-title="CH TIARA¹", BLUE ANT EXTREME
+http://103.156.141.151:4567/stream/channelid/21570002?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Blue Ant Entertaiment, group-title="CH TIARA¹",BLUE ANT ENTERTAIMENT
+http://103.156.141.151:4567/stream/channelid/605422995?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Bioskop Indonesia, group-title="CH TIARA¹", BIOSKOP INDONESIA
+http://103.156.141.151:4567/stream/channelid/63621990?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Star Chinese Movie Legend, group-title="CH TIARA¹", STAR CHINESE
+http://103.156.141.151:4567/stream/channelid/78358943?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Thrill, group-title="CH TIARA¹", THRILL
+http://103.156.141.151:4567/stream/channelid/139523732?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Cinemax, group-title="CH TIARA¹", CINEMAX
+http://103.156.141.151:4567/stream/channelid/570845997?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Flik, group-title="CH TIARA¹", FLIK
+http://103.156.141.151:4567/stream/channelid/764284111?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Warner, group-title="CH TIARA¹", WARNER
+http://103.156.141.151:4567/stream/channelid/810982907?profile=pass
+#EXTINF:0 type="stream" channelId="-1", CINEMA WORLD, group-title="CH TIARA¹", CINEMA WORLD
+http://103.156.141.151:4567/stream/channelid/1045547133?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Galaxy Premium, group-title="CH TIARA¹", GALAXY PREMIUM
+http://103.156.141.151:4567/stream/channelid/1116649485?profile=pass
+#EXTINF:0 type="stream" channelId="-1", HIT NOWS, group-title="CH TIARA¹", HIT NOWS
+http://103.156.141.151:4567/stream/channelid/1177534822?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Celestial Movie, group-title="CH TIARA¹", CALESTIAL MOVIE
+http://103.156.141.151:4567/stream/channelid/1235964251?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Z Bioskop, group-title="CH TIARA¹", BIOSKOP INDIA
+http://103.156.141.151:4567/stream/channelid/1654884343?profile=pass
+#EXTINF:0 type="stream" channelId="-1", IMC, group-title="CH TIARA¹", IMC
+http://103.156.141.151:4567/stream/channelid/1699616699?profile=pass
+#EXTINF:0 type="stream" channelId="-1", TV5Monde, group-title="CH TIARA¹", TV5 MONDE
+http://103.156.141.151:4567/stream/channelid/1767248316?profile=pass
+#EXTINF:0 type="stream" channelId="-1", AXN, group-title="CH TIARA¹", AXN 
+http://103.156.141.151:4567/stream/channelid/1940316216?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Fox Action Movie, group-title="CH TIARA¹", FOX A M
+http://103.156.141.151:4567/stream/channelid/1978738206?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Galaxy, group-title="CH TIARA¹", GALAXY
+http://103.156.141.151:4567/stream/channelid/2102143307?profile=pass
+#EXTINF:0 type="stream" channelId="-1", KIX, group-title="CH TIARA¹", KIX
+http://103.156.141.151:4567/stream/channelid/2136394137?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Citra Dangdut
+http://103.156.141.151:4567/stream/channelid/892980275?profile=pass
+#EXTINF:0 type="stream" channelId="-1", U Channel
+http://103.156.141.151:4567/stream/channelid/2016791628?profile=pass
+#EXTINF:0 type="stream" channelId="-1",Sony One
+http://103.156.141.151:4567/stream/channelid/45205185?profile=pass
+#EXTINF:0 type="stream" channelId="-1",Arirang
+http://103.156.141.151:4567/stream/channelid/188158551?profile=pass
+#EXTINF:0 type="stream" channelId="-1",CCTV4
+http://103.156.141.151:4567/stream/channelid/529840513?profile=pass
+#EXTINF:0 type="stream" channelId="-1",Sony Gem
+http://103.156.141.151:4567/stream/channelid/652599084?profile=pass
+#EXTINF:0 type="stream" channelId="-1",K+
+http://103.156.141.151:4567/stream/channelid/1383595813?profile=pass
+#EXTINF:0 type="stream" channelId="-1",TVN Movie
+http://103.156.141.151:4567/stream/channelid/1498652973?profile=pass
+#EXTINF:0 type="stream" channelId="-1",Fox life
+http://103.156.141.151:4567/stream/channelid/1564064339?profile=pass
+#EXTINF:0 type="stream" channelId="-1",TVN
+http://103.156.141.151:4567/stream/channelid/1630527068?profile=pass
+#EXTINF:0 type="stream" channelId="-1",Fox
+http://103.156.141.151:4567/stream/channelid/1829325744?profile=pass
+#EXTINF:0 type="stream" channelId="-1",Lifetime
+http://103.156.141.151:4567/stream/channelid/2069847605?profile=pass
+#EXTINF:0 type="stream" channelId="-1",Fox Crime
+http://103.156.141.151:4567/stream/channelid/2089810787?profile=pass
+#EXTINF:0 type="stream" channelId="-1",VOLI TV
+http://103.156.141.151:4567/stream/channelid/367213620?profile=pass
+#EXTINF:0 type="stream" channelId="-1",CHAMPION TV1
+http://103.156.141.151:4567/stream/channelid/1733758919?profile=pass
+#EXTINF:0 type="stream" channelId="-1",CHAMPION TV2
+http://103.156.141.151:4567/stream/channelid/1279723616?profile=pass
+#EXTINF:0 type="stream" channelId="-1",CHAMPION TV3
+http://103.156.141.151:4567/stream/channelid/1414915908?profile=pass
+#EXTINF:0 type="stream" channelId="-1",CHAMPION TV5
+http://103.156.141.151:4567/stream/channelid/444403166?profile=pass
+#EXTINF:0,CHAMPION TV6
+http://103.156.141.151:4567/stream/channelid/2132429597?profile=pass
+#EXTINF:0 type="stream" channelId="-1", BEIN SPORTS 1 INDONESIA
+http://103.156.141.151:4567/stream/channelid/468795732?profile=pass
+#EXTINF:0 type="stream" channelId="-1", BEIN SPORTS 3 INDONESIA
+http://103.156.141.151:4567/stream/channelid/1638978261?profile=pass
+#EXTINF:0 type="stream" channelId="-1", TRANS 7 DVB-S
+http://103.156.141.151:4567/stream/channelid/457124674?profile=pass
+#EXTINF:0 type="stream" channelId="-1", RCTI DVB-S
+http://103.156.141.151:4567/stream/channelid/1444580021?profile=pass
+#EXTINF:0 type="stream" channelId="-1", RCTI HD B
+http://103.156.141.151:4567/stream/channelid/1296808926?profile=pass
+#EXTINF:0 type="stream" channelId="-1", INEWS HD B
+http://103.156.141.151:4567/stream/channelid/265629930?profile=pass
+#EXTINF:0 type="stream" channelId="-1", MNCTV HD B
+http://103.156.141.151:4567/stream/channelid/295477375?profile=pass
+#EXTINF:0 type="stream" channelId="-1", GTV HD B
+http://103.156.141.151:4567/stream/channelid/1866677810?profile=pass
+#EXTINF:0 type="stream" channelId="-1", INDOSIAR HD B
+http://103.156.141.151:4567/stream/channelid/582352140?profile=pass
+#EXTINF:0 type="stream" channelId="-1", MOJI TV B
+http://103.156.141.151:4567/stream/channelid/438208019?profile=pass
+#EXTINF:0 type="stream" channelId="-1", SCTV B
+http://103.156.141.151:4567/stream/channelid/2055094390?profile=pass
+#EXTINF:0 type="stream" channelId="-1", DTG Film Indonesia (Indonesia Subtittle)
+http://103.156.141.151:4567/stream/channelid/260014190?profile=pass
+#EXTINF:0 type="stream" channelId="-1", DTG Bollywood Drama
+http://103.156.141.151:4567/stream/channelid/759805549?profile=pass
+#EXTINF:0 type="stream" channelId="-1", DTG World Movies (Indonesia Subtittle)
+http://103.156.141.151:4567/stream/channelid/1525721857?profile=pass
+#EXTINF:0 type="stream" channelId="-1", DTG Box Office (Indonesia Subtittle)
+http://103.156.141.151:4567/stream/channelid/1979819063?profile=pass
+#EXTINF:0 type="stream" channelId="-1", DTG Action
+http://103.156.141.151:4567/stream/channelid/2063690598?profile=pass
+#EXTINF:0 type="stream" channelId="-1", DTG Haunted (Indonesia Subtittle)
+http://103.156.141.151:4567/stream/channelid/1884877113?profile=pass
+#EXTINF:0 type="stream" channelId="-1", DTG Horror TV
+http://103.156.141.151:4567/stream/channelid/1426318248?profile=pass
+#EXTINF:0 type="stream" channelId="-1", V2Beats
+http://103.156.141.151:4567/stream/channelid/1349195628?profile=pass
+#EXTINF:0 type="stream" channelId="-1", RCTI HD
+http://103.156.141.151:4567/stream/channelid/600484674?profile=pass
+#EXTINF:0 type="stream" channelId="-1", MNCTV HD
+http://103.156.141.151:4567/stream/channelid/969119593?profile=pass
+#EXTINF:0 type="stream" channelId="-1", GTV HD
+http://103.156.141.151:4567/stream/channelid/1093895484?profile=pass
+#EXTINF:0 type="stream" channelId="-1", INEWS HD
+http://103.156.141.151:4567/stream/channelid/340125618?profile=pass
+#EXTINF:0,CCM HD 
+http://103.156.141.151:4567/stream/channelid/1055824693?profile=pass
+#EXTINF:0,Lagu Daerah Indonesia
+http://103.156.141.151:4567/stream/channelid/39724064?profile=pass
+#EXTINF:0,Tembang Kenangan
+http://103.156.141.151:4567/stream/channelid/1466790126?profile=pass
+#EXTINF:0,RETRO TV
+http://103.156.141.151:4567/stream/channelid/730980447?profile=pass
+
+#EXTINF:0 type="stream" channelId="-1",Astro Super Sport 1 
+http://103.156.141.151:4567/stream/channelid/1140724126?profile=pass
+#EXTINF:0 type="stream" channelId="-1",Astro Super Sport 2 
+http://103.156.141.151:4567/stream/channelid/102544476?profile=pass
+#EXTINF:0 type="stream" channelId="-1",Astro Super Sport 3 
+http://103.156.141.151:4567/stream/channelid/1439999769?profile=pass
+#EXTINF:0,Astro Super Sport 4 
+http://103.156.141.151:4567/stream/channelid/183208213?profile=pass
+#EXTINF:0 type="stream" channelId="-1",Spo TV 1 b
+http://103.156.141.151:4567/stream/channelid/146021844?profile=pass
+#EXTINF:0 type="stream" channelId="-1",Spo TV 2 b
+http://103.156.141.151:4567/stream/channelid/560589528?profile=pass
+#EXTINF:0 type="stream" channelId="-1",SPORT TV 1ⓧ FHD
+http://103.156.141.151:4567/stream/channelid/1529470438?profile=pass
+#EXTINF:0 type="stream" channelId="-1",SPORT TV 2ⓧ FHD
+http://103.156.141.151:4567/stream/channelid/412280276?profile=pass
+#EXTINF:0 type="stream" channelId="-1",Eurosport 1 FHD
+http://103.156.141.151:4567/stream/channelid/1951612046?profile=pass
+#EXTINF:0 type="stream" channelId="-1",Eurosport 2 FHD
+http://103.156.141.151:4567/stream/channelid/187605082?profile=pass
+#EXTINF:0,DSTV: Supersport Premiere League
+http://103.156.141.151:4567/stream/channelid/664566282?profile=pass
+#EXTINF:0,DSTV: SuperSport Maximo
+http://103.156.141.151:4567/stream/channelid/825561667?profile=pass
+#EXTINF:0 type="stream" channelId="-1",DSTV: SuperSport LaLiga
+http://103.156.141.151:4567/stream/channelid/895154667?profile=pass
+#EXTINF:0 type="stream" channelId="-1",USA Network "EPL"
+http://103.156.141.151:4567/stream/channelid/1039687709?profile=pass
+#EXTINF:0 type="stream" channelId="-1",Astro Arena 1
+http://103.156.141.151:4567/stream/channelid/1052702708?profile=pass
+#EXTINF:0 type="stream" channelId="-1",Asrtro Arena 2
+http://103.156.141.151:4567/stream/channelid/1461418236?profile=pass
+#EXTINF:0 type="stream" channelId="-1",Sportv 1 FHD
+http://103.156.141.151:4567/stream/channelid/1282709158?profile=pass
+#EXTINF:0 type="stream" channelId="-1",Sportv 2 FHD
+http://103.156.141.151:4567/stream/channelid/1702321155?profile=pass
+#EXTINF:0 type="stream" channelId="-1",Sportv 3 FHD
+http://103.156.141.151:4567/stream/channelid/61698339?profile=pass
+#EXTINF:0 type="stream" channelId="-1",USA Olympic Channel
+http://103.156.141.151:4567/stream/channelid/831724058?profile=pass
+#EXTINF:0 type="stream" channelId="-1",AU Olympics_Channel
+http://103.156.141.151:4567/stream/channelid/747309905?profile=pass
+#EXTINF:0 type="stream" channelId="-1",9XM Music
+http://103.156.141.151:4567/stream/channelid/74784163?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Champions TV5 HD
+http://103.195.65.203:4381/stream/channelid/786472822?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Champions TV6 HD
+http://103.195.65.203:4381/stream/channelid/124475707?profile=pass
+#EXTINF:0 type="stream" channelId="-1", GTV HD
+http://103.195.65.203:4381/stream/channelid/985573658?profile=pass
+#EXTINF:0 type="stream" channelId="-1", MNCTV HD
+http://103.195.65.203:4381/stream/channelid/1863770559?profile=pass
+#EXTINF:0 type="stream" channelId="-1", RCTI HD
+http://103.195.65.203:4381/stream/channelid/921847880?profile=pass
+#EXTINF:0 type="stream" channelId="-1", SCTV HD
+http://103.195.65.203:4381/stream/channelid/1844170157?ticket=0AD1FCCA9958C930395F56DAE54F85B34B23B26C&profile=pass
+#EXTINF:0 type="stream" channelId="-1", TRANS 7 HD
+http://103.195.65.203:4381/stream/channelid/1170618140?ticket=BD46E7D9B0DB58125C53D17A560CF7A3DBF47775&profile=pass
+#EXTINF:0 type="stream" channelId="-1", TRANS TV HD
+http://103.195.65.203:4381/stream/channelid/1067300261?ticket=35AF2BD29F8D47CD88BD243BA66D7862A1F2B439&profile=pass
+#EXTINF:0 type="stream" channelId="-1", INDOSIAR HD
+http://103.195.65.203:4381/stream/channelid/750990507?ticket=29D30E10D1EB400C965C5863B3C003FE3437185D&profile=pass
+#EXTINF:0 type="stream" channelId="-1", ANTV HD
+http://103.195.65.203:4381/stream/channelid/150170875?ticket=3AB838D523F91129E12470B72DC06461FEA20037&profile=pass
+#EXTINF:0 type="stream" channelId="-1", TVONE HD
+http://103.195.65.203:4381/stream/channelid/1848138030?ticket=43B4F708F83FBFD46C70864C9BF86955439E28DE&profile=pass
+#EXTINF:0 type="stream" channelId="-1", VTV HD
+http://103.195.65.203:4381/stream/channelid/1487592807?ticket=7823D3FB78519F1D73A24F550FB5BCB693702CF8&profile=pass
+#EXTINF:0 type="stream" channelId="-1", NET TV
+http://103.195.65.203:4381/stream/channelid/1912355624?ticket=45F60AB6009CC720342BB655E0E42CC1629FC801&profile=pass
+#EXTINF:0 type="stream" channelId="-1", NET TV HD
+http://103.195.65.203:4381/stream/channelid/1254084264?ticket=D9CFC46EADB242EA19C686D5783022B12CD72B7D&profile=pass
+#EXTINF:0 type="stream" channelId="-1", iNEWS
+http://103.195.65.203:4381/stream/channelid/1653782149?ticket=1DDAC0771B23D85D934D832FD31ADC7B037630DD&profile=pass
+#EXTINF:0,TVRI Nasional
+http://103.195.65.203:4381/stream/channelid/344921488?ticket=7FB01586268395F3537EAAF47600FB32E00AB5EA&profile=pass
+#EXTINF:0,TVRI SPORT
+http://103.195.65.203:4381/stream/channelid/1622169260?ticket=E62DCB4464D6E091DFD281F9CB9D65936B6412ED&profile=pass
+#EXTINF:0,TVRI WORLD
+http://103.195.65.203:4381/stream/channelid/1836096440?ticket=53D2931BF5381021ECEDD7B87282545764465BC4&profile=pass
+#EXTINF:0,TV9
+http://103.195.65.203:4381/stream/channelid/972990194?ticket=49D6C09332673DF54840396271B0F358D4C97691&profile=pass
+#EXTINF:0,SIN PO TV
+http://103.195.65.203:4381/stream/channelid/1731000227?ticket=B8B0431B96EE73F5101315350BD83E83C95D09F7&profile=pass
+#EXTINF:0,RTV HD
+http://103.195.65.203:4381/stream/channelid/198728576?ticket=1CDBD2F11716D7EC6C3F7D0B5BFC86271900F4B8&profile=pass
+#EXTINF:0,PKTV
+http://103.195.65.203:4381/stream/channelid/1313981133?ticket=0A9C01EDC4A9FB6174FE63BFA0AB23ADD682F43F&profile=pass
+#EXTINF:0,Metro TV
+http://103.195.65.203:4381/stream/channelid/433364157?ticket=D802B20366DEF8A783D3CD2C549319A22865E193&profile=pass
+#EXTINF:0,CNBC INDONESIA HD
+http://103.195.65.203:4381/stream/channelid/1001779470?ticket=33BC60E5F2F12AA1D1AE5DE3A6ECF63D21070194&profile=pass
+#EXTINF:0,CNN INDONESIA HD
+http://103.195.65.203:4381/stream/channelid/1223557543?ticket=1E6746E09E33BDD408524714BD4504892392D5CC&profile=pass
+#EXTINF:0,KOMPASTV HD
+http://103.195.65.203:4381/stream/channelid/270355248?ticket=D102B64EFCF81EFFB617FE1EE5F258BF304CF951&profile=pass
+#EXTINF:0,MENTARITV HD
+http://103.195.65.203:4381/stream/channelid/779935658?ticket=6D2DA090DBF087E6A972CEB9253B2ECE273F3E54&profile=pass
+#EXTINF:0,MOJI HD
+http://103.195.65.203:4381/stream/channelid/1959631406?ticket=B22B91AB0F0F3EF3F54B9C29D2965C3CD1420F79&profile=pass
+#EXTINF:0,Antara
+http://103.195.65.203:4381/stream/channelid/1693140250?ticket=FE940B4F9C51DB0BE608468CA38599F9F61BE45E&profile=pass
+#EXTINF:0,Fight Sport
+http://103.195.65.203:4381/stream/channelid/398891976?ticket=D3E2B2935A344B70AA6872CCE528B7BF517765B9&profile=pass
+#EXTINF:0,Warner
+http://103.195.65.203:4381/stream/channelid/1550496627?ticket=56E3CBD7E8F99403E7D5291A69E85C31F5A216B2&profile=pass
+#EXTINF:0,HBO
+http://103.195.65.203:4381/stream/channelid/404276820?ticket=6E8E4C774EA76946388F13C07B8A23BA8182FA7A&profile=pass
+#EXTINF:0,HBO Hits
+http://103.195.65.203:4381/stream/channelid/1992679913?ticket=9497DC0A6BCBB1E45DAD9C9CB4DBEE77D9857C61&profile=pass
+#EXTINF:0,HBO Signature
+http://103.195.65.203:4381/stream/channelid/1349958559?ticket=3AF0E5DB2B89749D4649D4656E816416A09547AD&profile=pass
+#EXTINF:0,HBO Family
+http://103.195.65.203:4381/stream/channelid/807701066?ticket=2E8FA6204CFE4CEB4BE996E6BAA3F4990A183AAF&profile=pass
+#EXTINF:0,Cinemax
+http://103.195.65.203:4381/stream/channelid/672957585?ticket=612C80D9E86DE78913CFF1371A3F69D403E64F1B&profile=pass
+#EXTINF:0,Thrill
+http://103.195.65.203:4381/stream/channelid/190935395?ticket=11701DEEB509B4405222CDE11BC5D739BC961F2A&profile=pass
+#EXTINF:0,TVN Movie
+http://103.195.65.203:4381/stream/channelid/1097561188?ticket=C4325EC18B9AD64F5A28C11C2075A0D055554FBF&profile=pass
+#EXTINF:0,Cinema World
+http://103.195.65.203:4381/stream/channelid/774842907?ticket=29A42B1EEBD1D13D1B3D78B79135B006361B4F3F&profile=pass
+#EXTINF:0,IMC HD
+http://103.195.65.203:4381/stream/channelid/835899132?ticket=06B0B057FDDA4D181140B7F5E0C1045D8C839ACE&profile=pass
+#EXTINF:0,Paramount HD
+http://103.195.65.203:4381/stream/channelid/1559445262?ticket=E686FE15D94A28CF81B983B49C7F43CAB9E2A28B&profile=pass
+#EXTINF:0,HITS MOVIE
+http://103.195.65.203:4381/stream/channelid/1491164810?ticket=53FBD6B6109B7330A4ECECA8733B1FDFBF24681D&profile=pass
+#EXTINF:0,My Family
+http://103.195.65.203:4381/stream/channelid/1683800827?ticket=55A23CF19D7FC5CEB6E7AB8D2082B3F33D1433EC&profile=pass
+#EXTINF:0,Bioskop Indonesia
+http://103.195.65.203:4381/stream/channelid/2140517565?ticket=F9EFE4208E206B251C8926668C5441B186BB9D47&profile=pass
+#EXTINF:0,Celestial Movie
+http://103.195.65.203:4381/stream/channelid/947888209?ticket=02817E012D70412D9CA85239018FC04964566CE6&profile=pass
+#EXTINF:0,My Cinema Asia
+http://103.195.65.203:4381/stream/channelid/944056621?ticket=B92AC047489226CEE89BA654A966657813304303&profile=pass
+#EXTINF:0,Galaxy
+http://103.195.65.203:4381/stream/channelid/184888436?ticket=A5CDF78F569C21864C929101D3F3FD9E68AF6A8B&profile=pass
+#EXTINF:0,Galaxy Movie Premium
+http://103.195.65.203:4381/stream/channelid/1561777786?ticket=BE691DE59FE369432CCF0A9B1CF7722B911934A4&profile=pass
+#EXTINF:0,AXN
+http://103.195.65.203:4381/stream/channelid/531140253?ticket=0790360B62D1CB4AF820BB675DC51D73ADA26193&profile=pass
+#EXTINF:0,KIX
+http://103.195.65.203:4381/stream/channelid/2045057566?ticket=A35026BF46EC3E1466D960EEBE33B56B95FF1D8F&profile=pass
+#EXTINF:0,Sony One
+http://103.195.65.203:4381/stream/channelid/1437479149?ticket=966F1CE5D7F8447B05BEC0216C111DEC95CA105B&profile=pass
+#EXTINF:0,TVN HD
+http://103.195.65.203:4381/stream/channelid/1476291289?ticket=FB782193B16EBA062E6F0F40B938CBB592BFE9A3&profile=pass
+#EXTINF:0,K+
+http://103.195.65.203:4381/stream/channelid/576020923?ticket=A60FB31A8270CB88538B585B5A42BD53500A3F21&profile=pass
+#EXTINF:0,History Channel
+http://103.195.65.203:4381/stream/channelid/2563582?ticket=B3D63188FB8A587966725FC5B09126D14ABD81FC&profile=pass
+#EXTINF:0,TECH STORM
+http://103.195.65.203:4381/stream/channelid/807144202?ticket=A95496CFB6B8FB65B7FF9A0A84B37F760869814D&profile=pass
+#EXTINF:0,HITS
+http://103.195.65.203:4381/stream/channelid/696975643?ticket=EF90023E7E87A450A84AF5316A20B67A40ED0E15&profile=pass
+#EXTINF:0,Crime & Investigation
+http://103.195.65.203:4381/stream/channelid/2070777858?ticket=3E4359ECD56CA0777AF07E135EF3DB4877E6BC02&profile=pass
+#EXTINF:0,Discovery HD
+http://103.195.65.203:4381/stream/channelid/1751149199?ticket=4FEC18B1A03DC7B51B7A006BA89D399BD4FE4197&profile=pass
+#EXTINF:0,Animal Planet HD
+http://103.195.65.203:4381/stream/channelid/1826622254?ticket=9BD6297CD17D70091B78E85606E340BEA1B3D405&profile=pass
+#EXTINF:0,Citra Dangdut
+http://103.195.65.203:4381/stream/channelid/1582459547?ticket=132A3DEA6D26CDC5FD44B56C83EDD262A9722273&profile=pass
+#EXTINF:0,Dunia Lain
+http://103.195.65.203:4381/stream/channelid/341425959?ticket=692A869478930EEBD4FCD0F54F437C3CE8969BE5&profile=pass
+#EXTINF:0,Channel [V]
+http://103.195.65.203:4381/stream/channelid/389159090?ticket=7EF0A0780F7C01A94E7C39B62E6CEDD75AACCAC6&profile=pass
+#EXTINF:0,Citra Drama
+http://103.195.65.203:4381/stream/channelid/1992651715?ticket=978CDA9ED2E31969190162C71D229ABB0577506C&profile=pass
+#EXTINF:0,MTV Live
+http://103.195.65.203:4381/stream/channelid/1279934608?ticket=17D5DD1D76ABCBEB805CCB7DFDFCC12886845076&profile=pass
+#EXTINF:0,HBO Dolby HD
+http://103.195.65.203:4381/stream/channelid/509739107?ticket=3B24E3F2E1044B99848F6CC5C972E3DF6A4FB42F&profile=pass
+#EXTINF:0,HBO Signature Dolby HD
+http://103.195.65.203:4381/stream/channelid/579600852?ticket=F86793DE802F873CFAC2E977FFE97D7C1165ECD0&profile=pass
+#EXTINF:0,HBO Hits Dolby HD
+http://103.195.65.203:4381/stream/channelid/1831650989?ticket=43C2B44A43094162EEC30F9D2BEE4DBF5BC6C7DC&profile=pass
+#EXTINF:0,HBO Family Dolby HD
+http://103.195.65.203:4381/stream/channelid/1505307444?ticket=0FFC0BB60022B19D97A575502D39446BD0231F94&profile=pass
+#EXTINF:0,Cinemax Dolby HD
+http://103.195.65.203:4381/stream/channelid/784844871?ticket=D1E3E45241CF79E9F21BE574C224749E568B45E4&profile=pass
+#EXTINF:0,My Cinema HD
+http://103.195.65.203:4381/stream/channelid/1421215239?ticket=8516F4E8A31570962D92F09EADC9DBA4456DAC9C&profile=pass
+#EXTINF:0,My Cinema Asia HD
+http://103.195.65.203:4381/stream/channelid/962651135?ticket=82745203BAA684AEA64188C35241C8C3C8A87A97&profile=pass
+#EXTINF:0,Rock Action HD
+http://103.195.65.203:4381/stream/channelid/1297396253?ticket=C0F939AD8FFF325DA4038F28E0EB871BC938F895&profile=pass
+#EXTINF:0,Rock Entertainment HD
+http://103.195.65.203:4381/stream/channelid/1529737638?ticket=32E7B33184728DB758685365C68FADC93579779B&profile=pass
+#EXTINF:0,TVN Movies HD
+http://103.195.65.203:4381/stream/channelid/953372893?ticket=7E061FAEF89E612C9A8186F5FD5DC029C4A9B2DD&profile=pass
+#EXTINF:0,Flik HD
+http://103.195.65.203:4381/stream/channelid/1107549985?ticket=31A59A6A012EDCD30C3F74F8E5897D287187D388&profile=pass
+#EXTINF:0,My Family Channel HD
+http://103.195.65.203:4381/stream/channelid/1552834394?ticket=DC878FB52C4708E741BF27602C17CB486BAAD0A0&profile=pass
+#EXTINF:0,Champions TV1 HD
+http://103.195.65.203:4381/stream/channelid/514602870?ticket=A09C637FF211A116AE1E4BB64A8536CBAD600A14&profile=pass
+#EXTINF:0,Champions TV2 HD
+http://103.195.65.203:4381/stream/channelid/1673181221?ticket=5C6E29CC2DA8629C5173B59ECFFA66156D459CD4&profile=pass
+#EXTINF:0,SPO TV
+http://103.195.65.203:4381/stream/channelid/374463231?ticket=82FA19A2282AEC9358ECA20754E63A33A1484B65&profile=pass
+#EXTINF:0,SPO TV2
+http://103.195.65.203:4381/stream/channelid/1894419107?ticket=D00440755F998B875AA299881BEFB4B5722E4DE1&profile=pass
+#EXTINF:0,W sport
+http://103.195.65.203:4381/stream/channelid/2056147724?ticket=24CF793D2DBD3555A7B574E6C388917951256E8D&profile=pass
+#EXTINF:0,Horizon Sport
+http://103.195.65.203:4381/stream/channelid/117198118?ticket=A414E9CD60D8C43A065DE4858F6D912BA349FD62&profile=pass
+#EXTINF:0,Fight Sports HD
+http://103.195.65.203:4381/stream/channelid/1595973397?ticket=44E3BDA79ABDC0079B506A0A548BB4D6ED64FE34&profile=pass
+#EXTINF:0,Champions TV5 HD
+http://103.195.65.203:4481/stream/channelid/786472822?ticket=E5FD7382A4A1CB88CE09E2AC436C4E6C17783DC6&profile=pass
+#EXTINF:0,Champions TV6 HD
+http://103.195.65.203:4481/stream/channelid/124475707?ticket=9AA0936BB87DA847D530DC21C73FD77CE706F3D9&profile=pass
+#EXTINF:0,GTV HD
+http://103.195.65.203:4481/stream/channelid/985573658?ticket=56E796D5E2A09F81442B1520E8381ED0CF1152CE&profile=pass
+#EXTINF:0,MNCTV HD
+http://103.195.65.203:4481/stream/channelid/1863770559?ticket=7CCC5AEA181519BAA3C6538F3349D575FBEC8D48&profile=pass
+#EXTINF:0,RCTI HD
+http://103.195.65.203:4481/stream/channelid/921847880?ticket=0F6109E906A18731FAE06CE757414129FA755581&profile=pass
+#EXTINF:0,SCTV HD
+http://103.195.65.203:4481/stream/channelid/1844170157?ticket=0AD1FCCA9958C930395F56DAE54F85B34B23B26C&profile=pass
+#EXTINF:0,TRANS 7 HD
+http://103.195.65.203:4481/stream/channelid/1170618140?ticket=BD46E7D9B0DB58125C53D17A560CF7A3DBF47775&profile=pass
+#EXTINF:0,TRANS TV HD
+http://103.195.65.203:4481/stream/channelid/1067300261?ticket=35AF2BD29F8D47CD88BD243BA66D7862A1F2B439&profile=pass
+#EXTINF:0,INDOSIAR HD
+http://103.195.65.203:4481/stream/channelid/750990507?ticket=29D30E10D1EB400C965C5863B3C003FE3437185D&profile=pass
+#EXTINF:0,ANTV HD
+http://103.195.65.203:4481/stream/channelid/150170875?ticket=3AB838D523F91129E12470B72DC06461FEA20037&profile=pass
+#EXTINF:0,TVONE HD
+http://103.195.65.203:4481/stream/channelid/1848138030?ticket=43B4F708F83FBFD46C70864C9BF86955439E28DE&profile=pass
+#EXTINF:0,VTV HD
+http://103.195.65.203:4481/stream/channelid/1487592807?ticket=7823D3FB78519F1D73A24F550FB5BCB693702CF8&profile=pass
+#EXTINF:0,NET TV
+http://103.195.65.203:4481/stream/channelid/1912355624?ticket=45F60AB6009CC720342BB655E0E42CC1629FC801&profile=pass
+#EXTINF:0,NET TV HD
+http://103.195.65.203:4481/stream/channelid/1254084264?ticket=D9CFC46EADB242EA19C686D5783022B12CD72B7D&profile=pass
+#EXTINF:0,iNEWS
+http://103.195.65.203:4481/stream/channelid/1653782149?ticket=1DDAC0771B23D85D934D832FD31ADC7B037630DD&profile=pass
+#EXTINF:0,TVRI Nasional
+http://103.195.65.203:4481/stream/channelid/344921488?ticket=7FB01586268395F3537EAAF47600FB32E00AB5EA&profile=pass
+#EXTINF:0,TVRI SPORT
+http://103.195.65.203:4481/stream/channelid/1622169260?ticket=E62DCB4464D6E091DFD281F9CB9D65936B6412ED&profile=pass
+#EXTINF:0,TVRI WORLD
+http://103.195.65.203:4481/stream/channelid/1836096440?ticket=53D2931BF5381021ECEDD7B87282545764465BC4&profile=pass
+#EXTINF:0,TV9
+http://103.195.65.203:4481/stream/channelid/972990194?ticket=49D6C09332673DF54840396271B0F358D4C97691&profile=pass
+#EXTINF:0,SIN PO TV
+http://103.195.65.203:4481/stream/channelid/1731000227?ticket=B8B0431B96EE73F5101315350BD83E83C95D09F7&profile=pass
+#EXTINF:0,RTV HD
+http://103.195.65.203:4481/stream/channelid/198728576?ticket=1CDBD2F11716D7EC6C3F7D0B5BFC86271900F4B8&profile=pass
+#EXTINF:0,PKTV
+http://103.195.65.203:4481/stream/channelid/1313981133?ticket=0A9C01EDC4A9FB6174FE63BFA0AB23ADD682F43F&profile=pass
+#EXTINF:0,Metro TV
+http://103.195.65.203:4481/stream/channelid/433364157?ticket=D802B20366DEF8A783D3CD2C549319A22865E193&profile=pass
+#EXTINF:0,CNBC INDONESIA HD
+http://103.195.65.203:4481/stream/channelid/1001779470?ticket=33BC60E5F2F12AA1D1AE5DE3A6ECF63D21070194&profile=pass
+#EXTINF:0,CNN INDONESIA HD
+http://103.195.65.203:4481/stream/channelid/1223557543?ticket=1E6746E09E33BDD408524714BD4504892392D5CC&profile=pass
+#EXTINF:0,KOMPASTV HD
+http://103.195.65.203:4481/stream/channelid/270355248?ticket=D102B64EFCF81EFFB617FE1EE5F258BF304CF951&profile=pass
+#EXTINF:0,MENTARITV HD
+stream/channelid/1559445262?ticket=E686FE15D94A28CF81B983B49C7F43CAB9E2A28B&profile=pass
+#EXTINF:0,HITS MOVIE
+http://103.195.65.203:4481/stream/channelid/1491164810?ticket=53FBD6B6109B7330A4ECECA8733B1FDFBF24681D&profile=pass
+#EXTINF:0,My Family
+http://103.195.65.203:4481/stream/channelid/1683800827?ticket=55A23CF19D7FC5CEB6E7AB8D2082B3F33D1433EC&profile=pass
+#EXTINF:0,Bioskop Indonesia
+http://103.195.65.203:4481/stream/channelid/2140517565?ticket=F9EFE4208E206B251C8926668C5441B186BB9D47&profile=pass
+#EXTINF:0,Celestial Movie
+http://103.195.65.203:4481/stream/channelid/947888209?ticket=02817E012D70412D9CA85239018FC04964566CE6&profile=pass
+#EXTINF:0,My Cinema Asia
+http://103.195.65.203:4481/stream/channelid/944056621?ticket=B92AC047489226CEE89BA654A966657813304303&profile=pass
+#EXTINF:0,Galaxy
+http://103.195.65.203:4481/stream/channelid/184888436?ticket=A5CDF78F569C21864C929101D3F3FD9E68AF6A8B&profile=pass
+#EXTINF:0,Galaxy Movie Premium
+http://103.195.65.203:4481/stream/channelid/1561777786?ticket=BE691DE59FE369432CCF0A9B1CF7722B911934A4&profile=pass
+#EXTINF:0,Z Bioskop
+http://103.195.65.203:4481/stream/channelid/1544525858?ticket=26B099506F0C3D978705509DA6E0BF2E3411F281&profile=pass
+#EXTINF:0,AXN
+http://103.195.65.203:4481/stream/channelid/531140253?ticket=0790360B62D1CB4AF820BB675DC51D73ADA26193&profile=pass
+#EXTINF:0,KIX
+http://103.195.65.203:4481/stream/channelid/2045057566?ticket=A35026BF46EC3E1466D960EEBE33B56B95FF1D8F&profile=pass
+#EXTINF:0,Sony One
+http://103.195.65.203:4481/stream/channelid/1437479149?ticket=966F1CE5D7F8447B05BEC0216C111DEC95CA105B&profile=pass
+#EXTINF:0,TVN HD
+http://103.195.65.203:4481/stream/channelid/1476291289?ticket=FB782193B16EBA062E6F0F40B938CBB592BFE9A3&profile=pass
+#EXTINF:0,K+
+http://103.195.65.203:4481/stream/channelid/576020923?ticket=A60FB31A8270CB88538B585B5A42BD53500A3F21&profile=pass
+#EXTINF:0,History Channel
+http://103.195.65.203:4481/stream/channelid/2563582?ticket=B3D63188FB8A587966725FC5B09126D14ABD81FC&profile=pass
+#EXTINF:0,TECH STORM
+http://103.195.65.203:4481/stream/channelid/807144202?ticket=A95496CFB6B8FB65B7FF9A0A84B37F760869814D&profile=pass
+#EXTINF:0,HITS
+http://103.195.65.203:4481/stream/channelid/696975643?ticket=EF90023E7E87A450A84AF5316A20B67A40ED0E15&profile=pass
+#EXTINF:0,Crime & Investigation
+http://103.195.65.203:4481/stream/channelid/2070777858?ticket=3E4359ECD56CA0777AF07E135EF3DB4877E6BC02&profile=pass
+#EXTINF:0,Discovery HD
+http://103.195.65.203:4481/stream/channelid/1751149199?ticket=4FEC18B1A03DC7B51B7A006BA89D399BD4FE4197&profile=pass
+#EXTINF:0,Animal Planet HD
+http://103.195.65.203:4481/stream/channelid/1826622254?ticket=9BD6297CD17D70091B78E85606E340BEA1B3D405&profile=pass
+#EXTINF:0,Citra Dangdut
+http://103.195.65.203:4481/stream/channelid/1582459547?ticket=132A3DEA6D26CDC5FD44B56C83EDD262A9722273&profile=pass
+#EXTINF:0,Dunia Lain
+http://103.195.65.203:4481/stream/channelid/341425959?ticket=692A869478930EEBD4FCD0F54F437C3CE8969BE5&profile=pass
+#EXTINF:0,Channel [V]
+http://103.195.65.203:4481/stream/channelid/389159090?ticket=7EF0A0780F7C01A94E7C39B62E6CEDD75AACCAC6&profile=pass
+#EXTINF:0,Citra Drama
+http://103.195.65.203:4481/stream/channelid/1992651715?ticket=978CDA9ED2E31969190162C71D229ABB0577506C&profile=pass
+#EXTINF:0,MTV Live
+http://103.195.65.203:4481/stream/channelid/1279934608?ticket=17D5DD1D76ABCBEB805CCB7DFDFCC12886845076&profile=pass
+#EXTINF:0,HBO Dolby HD
+http://103.195.65.203:4481/stream/channelid/509739107?ticket=3B24E3F2E1044B99848F6CC5C972E3DF6A4FB42F&profile=pass
+#EXTINF:0,HBO Signature Dolby HD
+http://103.195.65.203:4481/stream/channelid/579600852?ticket=F86793DE802F873CFAC2E977FFE97D7C1165ECD0&profile=pass
+#EXTINF:0,HBO Hits Dolby HD
+http://103.195.65.203:4481/stream/channelid/1831650989?ticket=43C2B44A43094162EEC30F9D2BEE4DBF5BC6C7DC&profile=pass
+#EXTINF:0,HBO Family Dolby HD
+http://103.195.65.203:4481/stream/channelid/1505307444?ticket=0FFC0BB60022B19D97A575502D39446BD0231F94&profile=pass
+#EXTINF:0,Cinemax Dolby HD
+http://103.195.65.203:4481/stream/channelid/784844871?ticket=D1E3E45241CF79E9F21BE574C224749E568B45E4&profile=pass
+#EXTINF:0,My Cinema HD
+http://103.195.65.203:4481/stream/channelid/1421215239?ticket=8516F4E8A31570962D92F09EADC9DBA4456DAC9C&profile=pass
+#EXTINF:0,My Cinema Asia HD
+http://103.195.65.203:4481/stream/channelid/962651135?ticket=82745203BAA684AEA64188C35241C8C3C8A87A97&profile=pass
+#EXTINF:0,Rock Action HD
+http://103.195.65.203:4481/stream/channelid/1297396253?ticket=C0F939AD8FFF325DA4038F28E0EB871BC938F895&profile=pass
+#EXTINF:0,Rock Entertainment HD
+http://103.195.65.203:4481/stream/channelid/1529737638?ticket=32E7B33184728DB758685365C68FADC93579779B&profile=pass
+#EXTINF:0,TVN Movies HD
+http://103.195.65.203:4481/stream/channelid/953372893?ticket=7E061FAEF89E612C9A8186F5FD5DC029C4A9B2DD&profile=pass
+#EXTINF:0,Flik HD
+http://103.195.65.203:4481/stream/channelid/1107549985?ticket=31A59A6A012EDCD30C3F74F8E5897D287187D388&profile=pass
+#EXTINF:0,My Family Channel HD
+http://103.195.65.203:4481/stream/channelid/1552834394?ticket=DC878FB52C4708E741BF27602C17CB486BAAD0A0&profile=pass
+#EXTINF:0,Champions TV1 HD
+http://103.195.65.203:4481/stream/channelid/514602870?ticket=A09C637FF211A116AE1E4BB64A8536CBAD600A14&profile=pass
+#EXTINF:0,Champions TV2 HD
+http://103.195.65.203:4481/stream/channelid/1673181221?ticket=5C6E29CC2DA8629C5173B59ECFFA66156D459CD4&profile=pass
+#EXTINF:0,SPO TV
+http://103.195.65.203:4481/stream/channelid/374463231?ticket=82FA19A2282AEC9358ECA20754E63A33A1484B65&profile=pass
+#EXTINF:0,SPO TV2
+http://103.195.65.203:4481/stream/channelid/1894419107?ticket=D00440755F998B875AA299881BEFB4B5722E4DE1&profile=pass
+#EXTINF:0,W sport
+http://103.195.65.203:4481/stream/channelid/2056147724?ticket=24CF793D2DBD3555A7B574E6C388917951256E8D&profile=pass
+#EXTINF:0,Horizon Sport
+http://103.195.65.203:4481/stream/channelid/117198118?ticket=A414E9CD60D8C43A065DE4858F6D912BA349FD62&profile=pass
+#EXTINF:0,Fight Sports HD
+http://103.195.65.203:4481/stream/channelid/1595973397?ticket=44E3BDA79ABDC0079B506A0A548BB4D6ED64FE34&profile=pass
+#EXTINF:0,Champions TV5 HD
+http://103.195.65.203:9481/stream/channelid/786472822?ticket=D042495608C1568A713EDD0E5C585226936772B3&profile=pass
+#EXTINF:0,Champions TV6 HD
+http://103.195.65.203:9481/stream/channelid/124475707?ticket=6D4CA1060C3E25D15B6F2CEEA477D244A9278213&profile=pass
+#EXTINF:0,GTV HD
+http://103.195.65.203:9481/stream/channelid/985573658?ticket=0EE53A7EEC7A1ED9A5ADEAE23D9A4EA717C8F117&profile=pass
+#EXTINF:0,MNCTV HD
+http://103.195.65.203:9481/stream/channelid/1863770559?ticket=F7058DD0323933B8DD37A1CAB240D0D597D121B0&profile=pass
+#EXTINF:0,RCTI HD
+http://103.195.65.203:9481/stream/channelid/921847880?ticket=882CDDA1AF53FA9EF708258D8FB6654A28814267&profile=pass
+#EXTINF:0,SCTV HD
+http://103.195.65.203:9481/stream/channelid/1844170157?ticket=4A978D1885F2F1FC935626FD72F726B190494B55&profile=pass
+#EXTINF:0,TRANS 7 HD
+http://103.195.65.203:9481/stream/channelid/1170618140?ticket=1CDA47488EBB0BC1553966C5584920535DBEA62E&profile=pass
+#EXTINF:0,TRANS TV HD
+http://103.195.65.203:9481/stream/channelid/1067300261?ticket=BC5EBBFCAA3431B3246D49A8D14089C5B5D2ACE7&profile=pass
+#EXTINF:0,INDOSIAR HD
+http://103.195.65.203:9481/stream/channelid/750990507?ticket=6C912C88B1186EBF7932B18B44325DA50EEC0CE0&profile=pass
+#EXTINF:0,ANTV HD
+http://103.195.65.203:9481/stream/channelid/150170875?ticket=111B7E081624036B98E92C586FA2359DCA7FFAF2&profile=pass
+#EXTINF:0,TVONE HD
+http://103.195.65.203:9481/stream/channelid/1848138030?ticket=BC5105C6D37978F4D3448233C8568F9034361392&profile=pass
+#EXTINF:0,VTV HD
+http://103.195.65.203:9481/stream/channelid/1487592807?ticket=0F58F2DBB2C81A769529CC9E2259EC7C0CF5B7F5&profile=pass
+#EXTINF:0,NET TV
+http://103.195.65.203:9481/stream/channelid/1912355624?ticket=2D2AD0C02243674847B16CD9F681B02D21814D4D&profile=pass
+#EXTINF:0,NET TV HD
+http://103.195.65.203:9481/stream/channelid/1254084264?ticket=2A44638010452BC0130598875F5DC960AA9B768D&profile=pass
+#EXTINF:0,iNEWS
+http://103.195.65.203:9481/stream/channelid/1653782149?ticket=74A4438F8274CA8FC77A69488388F8D4B22F5FA0&profile=pass
+#EXTINF:0,TVRI Nasional
+http://103.195.65.203:9481/stream/channelid/344921488?ticket=5CC6E553F9DE15216357FF046BB79B5DB3BA67BB&profile=pass
+#EXTINF:0,TVRI SPORT
+http://103.195.65.203:9481/stream/channelid/1622169260?ticket=35537CF4F81700F1A153E4038235CEB848B42D67&profile=pass
+#EXTINF:0,TVRI WORLD
+http://103.195.65.203:9481/stream/channelid/1836096440?ticket=D6F36356B292BD5F4A0A25502684F527A434B665&profile=pass
+#EXTINF:0,TV9
+http://103.195.65.203:9481/stream/channelid/972990194?ticket=8FADFDCE22D9E84A790EDFC987BF317CAA171B2F&profile=pass
+#EXTINF:0,SIN PO TV
+http://103.195.65.203:9481/stream/channelid/1731000227?ticket=9E220DFE9D2F8A87EC3F2D2E8EF8F022912D16AD&profile=pass
+#EXTINF:0,RTV HD
+http://103.195.65.203:9481/stream/channelid/198728576?ticket=037E1F287D230928CFB4613B1EEE59004CAE2CC0&profile=pass
+#EXTINF:0,PKTV
+http://103.195.65.203:9481/stream/channelid/1313981133?ticket=9A10DBFB2A193EE6BD2A6A94D04549D6B29F8732&profile=pass
+#EXTINF:0,Metro TV
+http://103.195.65.203:9481/stream/channelid/433364157?ticket=34AC8BB806330CBE4A81D0A2E6FDF717089FAE82&profile=pass
+#EXTINF:0,CNBC INDONESIA HD
+http://103.195.65.203:9481/stream/channelid/1001779470?ticket=64FF6F94E926CCBA5B0B2577E739D9FC314D4CB0&profile=pass
+#EXTINF:0,CNN INDONESIA HD
+http://103.195.65.203:9481/stream/channelid/1223557543?ticket=C828E764C92240E849C8541C7D3D89D8F46E8235&profile=pass
+#EXTINF:0,KOMPASTV HD
+http://103.195.65.203:9481/stream/channelid/270355248?ticket=E60634B0EE87A8E0BBC0570437D822E76ECF0FFB&profile=pass
+#EXTINF:0,MENTARITV HD
+http://103.195.65.203:9481/stream/channelid/779935658?ticket=1CCD72A62F04D9CF9C1DB71FAFE40C96F1504FE9&profile=pass
+#EXTINF:0,MOJI HD
+http://103.195.65.203:9481/stream/channelid/1959631406?ticket=26F1ACB5F7603491D572DE9310DEF1DA2A80CE40&profile=pass
+#EXTINF:0,Antara
+http://103.195.65.203:9481/stream/channelid/1693140250?ticket=9CA4500804E42806D80F03F3FA483229B3227332&profile=pass
+#EXTINF:0,Fight Sport
+http://103.195.65.203:9481/stream/channelid/398891976?ticket=F2A6F037B5B30782387AB7EFFF338FB43502FB6A&profile=pass
+#EXTINF:0,Warner
+http://103.195.65.203:9481/stream/channelid/1550496627?ticket=6B70A38A065FE52114DFBF42620D58F23F1FE7BE&profile=pass
+#EXTINF:0,HBO
+http://103.195.65.203:9481/stream/channelid/404276820?ticket=29C8C8DBED808288DBE1C28B4AB440892A677C56&profile=pass
+#EXTINF:0,HBO Hits
+http://103.195.65.203:9481/stream/channelid/1992679913?ticket=DEF846A741C96C96782D7D5E89319F1A0734ADB4&profile=pass
+#EXTINF:0,HBO Signature
+http://103.195.65.203:9481/stream/channelid/1349958559?ticket=26270B643A1C5A4764088F1BC3060F049D2E7515&profile=pass
+#EXTINF:0,HBO Family
+http://103.195.65.203:9481/stream/channelid/807701066?ticket=173ABBF47EF2C6F0EE50D4194DFD0C41C1E4C7C5&profile=pass
+#EXTINF:0,Cinemax
+http://103.195.65.203:9481/stream/channelid/672957585?ticket=63C10A6CE51F0C7AB98EC1830F8A93CD55F5A97D&profile=pass
+#EXTINF:0,Thrill
+http://103.195.65.203:9481/stream/channelid/190935395?ticket=C77B8A1DB0160F298ECA9E678E38F85B60506E9F&profile=pass
+#EXTINF:0,TVN Movie
+http://103.195.65.203:9481/stream/channelid/1097561188?ticket=A518644DA8C8F1953E7E9871BF398B1B1D64ABC5&profile=pass
+#EXTINF:0,Cinema World
+http://103.195.65.203:9481/stream/channelid/774842907?ticket=D8E085E7C01A3EE273452A17BF7041D643EDF8A0&profile=pass
+#EXTINF:0,IMC HD
+http://103.195.65.203:9481/stream/channelid/835899132?ticket=3C5AE5FA37A35B371E40905E422170CF67909F92&profile=pass
+#EXTINF:0,Paramount HD
+http://103.195.65.203:9481/stream/channelid/1559445262?ticket=FAADE536AAB941432B82B3781BDADA98BC3691C4&profile=pass
+#EXTINF:0,HITS MOVIE
+http://103.195.65.203:9481/stream/channelid/1491164810?ticket=3FD76ADF3C31C71E7C1D74F720268CECA70AA131&profile=pass
+#EXTINF:0,My Family
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1683800827?ticket=57CCDFCE033C9E3EACCEDC6507B013298A2D2A04&profile=pass
+#EXTINF:0,Bioskop Indonesia
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/2140517565?ticket=949468A4C5255C1140CDC3BC6621EE1D7901359A&profile=pass
+#EXTINF:0,Celestial Movie
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/947888209?ticket=03864158292B549566871ED4D38E5B069BE92EAB&profile=pass
+#EXTINF:0,My Cinema Asia
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/944056621?ticket=2FE912F5C136E8A021E6B12AEFD0B8451488BFE2&profile=pass
+#EXTINF:0,Galaxy
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/184888436?ticket=C75D02942883D3029D16647F11F5E55155023A1D&profile=pass
+#EXTINF:0,Galaxy Movie Premium
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1561777786?ticket=2E87769E2F8261092DC5286B16CCB8A96DC35343&profile=pass
+#EXTINF:0,Z Bioskop
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1544525858?ticket=DD541A587597B815B2A15ADCAD7B78A08A902E5C&profile=pass
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/531140253?ticket=FD55AD5C7A6E82478E0E4840FB382B59A151EA3B&profile=pass
+#EXTINF:0,KIX
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/2045057566?ticket=840254A98F1E7660E731C48033168ED81FB646DB&profile=pass
+#EXTINF:0,Sony One
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1437479149?ticket=D9DED7D109DF19A8AD73EB6212C7D769A9328979&profile=pass
+#EXTINF:0,Animax
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/777958670?ticket=E8DF375864E4361C9B8F74A2A1870FF6ED6B64AB&profile=pass
+#EXTINF:0,Aniplus
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1824550607?ticket=2FE7E0E814220EF9A691CDBC76B60B26E8E5F9FE&profile=pass
+#EXTINF:0,TVN HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1476291289?ticket=2C98AC463BC5C1A5B37861F2EAF826E21F47ED6F&profile=pass
+#EXTINF:0,K+
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/576020923?ticket=75343C069391A908B91CE3CB961E3A24EBCF3709&profile=pass
+#EXTINF:0,History Channel
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/2563582?ticket=3509D416285F3E496FA48F79C1832201820BFA36&profile=pass
+#EXTINF:0,TECH STORM
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/807144202?ticket=822785AF1F1B2BC28428F05914C238B92495D2CC&profile=pass
+#EXTINF:0,HITS
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/696975643?ticket=6B32EBA68107431DC5C240E37CCD63928AF703D6&profile=pass
+#EXTINF:0,Crime & Investigation
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/2070777858?ticket=4CF6C606FFB7809565F3DF88F276AF6698A94308&profile=pass
+#EXTINF:0,Discovery HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1751149199?ticket=5D41FD512F0D4A6221608BDB9F9C531A57E44401&profile=pass
+#EXTINF:0,Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1826622254?ticket=42E1AA688838A6F0DD63F4A27F74B5C727EDAC75&profile=pass
+#EXTINF:0,Citra Dangdut
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1582459547?ticket=E2CD54618AB255988DC86D4130AF7C2F89713758&profile=pass
+#EXTINF:0,Dunia Lain
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/341425959?ticket=0A66201FDFBF701D16BC78AE1A24742F33DED3C2&profile=pass
+#EXTINF:0,Channel [V]
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/389159090?ticket=0223F7D924E2A027DAD1EB9689F696C313F03A10&profile=pass
+#EXTINF:0,Citra Drama
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1992651715?ticket=85E5C9E718B8AD770765277AC3A97CD4F779B30F&profile=pass
+#EXTINF:0,MTV Live
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1279934608?ticket=D95605801FCC34F1E1953E0921C43FBC07F92C92&profile=pass
+#EXTINF:0,HBO Dolby HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/509739107?ticket=E8A5D9BAA99B766F9ABB2D6FE071427953EDE85A&profile=pass
+#EXTINF:0,HBO Signature Dolby HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/579600852?ticket=870E70E1449533F528793C3AA84EE47BD517FA1D&profile=pass
