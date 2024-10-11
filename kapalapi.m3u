@@ -1,56 +1,58 @@
-#EXTINF:-1 logo="http://103.183.10.7:9900/imagecache/72"
+
+  #EXTM3U #EXTINF:-1
+  logo="http://iptv.fiberplus.id:9900/imagecache/72"
   tvg-id="735d50cff97f80e44b24e9fa1867f62d",GARUDA TV
-  http://103.183.10.7:9900/stream/channelid/1330666867?profile=pass
-  #EXTINF:-1 logo="http://103.183.10.7:9900/imagecache/73"
+  http://iptv.fiberplus.id:9900/stream/channelid/1330666867?profile=pass
+  #EXTINF:-1 logo="http://iptv.fiberplus.id:9900/imagecache/73"
   tvg-id="767a8b776c27471dd34fac1b0e5a83cf",JawaPos TV
-  http://103.183.10.7:9900/stream/channelid/2005629558?profile=pass
-  #EXTINF:-1 logo="http://103.183.10.7:9900/imagecache/74"
+  http://iptv.fiberplus.id:9900/stream/channelid/2005629558?profile=pass
+  #EXTINF:-1 logo="http://iptv.fiberplus.id:9900/imagecache/74"
   tvg-id="85306b73840e0aaa89719ded4d8b014a",JTV
-  http://103.183.10.7:9900/stream/channelid/1936404613?profile=pass
-  #EXTINF:-1 logo="http://103.183.10.7:9900/imagecache/75"
+  http://iptv.fiberplus.id:9900/stream/channelid/1936404613?profile=pass
+  #EXTINF:-1 logo="http://iptv.fiberplus.id:9900/imagecache/75"
   tvg-id="3dd3fffaa609897bd8ca80197d87aeeb",SAKTI TV
-  http://103.183.10.7:9900/stream/channelid/2063586109?profile=pass
-  #EXTINF:-1 logo="http://103.183.10.7:9900/imagecache/76"
+  http://iptv.fiberplus.id:9900/stream/channelid/2063586109?profile=pass
+  #EXTINF:-1 logo="http://iptv.fiberplus.id:9900/imagecache/76"
   tvg-id="b822864fb02fbe14e03834c416d4cbd5" tvg-chno="22",METRO TV
   HD
-  http://103.183.10.7:9900/stream/channelid/1334190776?profile=pass
-  #EXTINF:-1 logo="http://103.183.10.7:9900/imagecache/77"
+  http://iptv.fiberplus.id:9900/stream/channelid/1334190776?profile=pass
+  #EXTINF:-1 logo="http://iptv.fiberplus.id:9900/imagecache/77"
   tvg-id="2b5b4eea229940199d09fa0dc3ba0349" tvg-chno="23",SCTV HD
-  http://103.183.10.7:9900/stream/channelid/1783520043?profile=pass
-  #EXTINF:-1 logo="http://103.183.10.7:9900/imagecache/78"
+  http://iptv.fiberplus.id:9900/stream/channelid/1783520043?profile=pass
+  #EXTINF:-1 logo="http://iptv.fiberplus.id:9900/imagecache/78"
   tvg-id="30d9d7d51fba94655c4adf870b31f52b" tvg-chno="24",INDOSIAR
   HD
-  http://103.183.10.7:9900/stream/channelid/1440209200?profile=pass
-  #EXTINF:-1 logo="http://103.183.10.7:9900/imagecache/79"
+  http://iptv.fiberplus.id:9900/stream/channelid/1440209200?profile=pass
+  #EXTINF:-1 logo="http://iptv.fiberplus.id:9900/imagecache/79"
   tvg-id="df32327518281a60a63503d57967a493" tvg-chno="28",RCTI HD
-  http://103.183.10.7:9900/stream/channelid/1966224095?profile=pass
-  #EXTINF:-1 logo="http://103.183.10.7:9900/imagecache/80"
+  http://iptv.fiberplus.id:9900/stream/channelid/1966224095?profile=pass
+  #EXTINF:-1 logo="http://iptv.fiberplus.id:9900/imagecache/80"
   tvg-id="3de1d89ef0741cc345eea26b81cb1689" tvg-chno="29",MNCTV HD
-  http://103.183.10.7:9900/stream/channelid/517529917?profile=pass
-  #EXTINF:-1 logo="http://103.183.10.7:9900/imagecache/81"
+  http://iptv.fiberplus.id:9900/stream/channelid/517529917?profile=pass
+  #EXTINF:-1 logo="http://iptv.fiberplus.id:9900/imagecache/81"
   tvg-id="0793f4fe5c6bf2e2fa0e417d2c4c234d" tvg-chno="30",GTV HD
-  http://103.183.10.7:9900/stream/channelid/2129957639?profile=pass
-  #EXTINF:-1 logo="http://103.183.10.7:9900/imagecache/82"
+  http://iptv.fiberplus.id:9900/stream/channelid/2129957639?profile=pass
+  #EXTINF:-1 logo="http://iptv.fiberplus.id:9900/imagecache/82"
   tvg-id="8e1bb2167396c6bafb1fcd15d69a814b" tvg-chno="31",iNews HD
-  http://103.183.10.7:9900/stream/channelid/380771214?profile=pass
-  #EXTINF:-1 logo="http://103.183.10.7:9900/imagecache/83"
+  http://iptv.fiberplus.id:9900/stream/channelid/380771214?profile=pass
+  #EXTINF:-1 logo="http://iptv.fiberplus.id:9900/imagecache/83"
   tvg-id="718ec66ac045456003f1429052b8e6ca" tvg-chno="100",MAGNA
   CHANNEL
-  http://103.183.10.7:9900/stream/channelid/1791397489?profile=pass
-  #EXTINF:-1 logo="http://103.183.10.7:9900/imagecache/84"
+  http://iptv.fiberplus.id:9900/stream/channelid/1791397489?profile=pass
+  #EXTINF:-1 logo="http://iptv.fiberplus.id:9900/imagecache/84"
   tvg-id="47b6477c93a9009b79708048e44ebde5" tvg-chno="101",BN
   CHANNEL
-  http://103.183.10.7:9900/stream/channelid/2085074503?profile=pass
-  #EXTINF:-1 logo="http://103.183.10.7:9900/imagecache/85"
+  http://iptv.fiberplus.id:9900/stream/channelid/2085074503?profile=pass
+  #EXTINF:-1 logo="http://iptv.fiberplus.id:9900/imagecache/85"
   tvg-id="0d5e62ea41c34f1563c57d465d6ba72e" tvg-chno="116",NET. SD
-  http://103.183.10.7:9900/stream/channelid/1784831501?profile=pass
-  #EXTINF:-1 logo="http://103.183.10.7:9900/imagecache/86"
+  http://iptv.fiberplus.id:9900/stream/channelid/1784831501?profile=pass
+  #EXTINF:-1 logo="http://iptv.fiberplus.id:9900/imagecache/86"
   tvg-id="5bcd558ce1ae93147e7b4f906bf7a094" tvg-chno="123",MOJI HD
-  http://103.183.10.7:9900/stream/channelid/206949723?profile=pass
-  #EXTINF:-1 logo="http://103.183.10.7:9900/imagecache/87"
+  http://iptv.fiberplus.id:9900/stream/channelid/206949723?profile=pass
+  #EXTINF:-1 logo="http://iptv.fiberplus.id:9900/imagecache/87"
   tvg-id="41b2754298050425e066bd5321841f46" tvg-chno="124",MENTARI
   HD
-  http://103.183.10.7:9900/stream/channelid/1115009601?profile=pass
-  #EXTINF:-1 logo="http://103.183.10.7:9900/imagecache/88"
+  http://iptv.fiberplus.id:9900/stream/channelid/1115009601?profile=pass
+  #EXTINF:-1 logo="http://iptv.fiberplus.id:9900/imagecache/88"
   tvg-id="82a98ee3110ee6276f826ffb0a22254d" tvg-chno="125",KOMPASTV
-  http://103.183.10.7:9900/stream/channelid/1670293890?profile=pass
+  http://iptv.fiberplus.id:9900/stream/channelid/1670293890?profile=
