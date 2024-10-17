@@ -640,7 +640,7 @@ http://103.156.141.151:4567/stream/channelid/1039687709?profile=pass
 http://103.156.141.151:4567/stream/channelid/1529470438?profile=pass
 #EXTINF:-1 group-title="SOR RINGIN TV" tvg-name=" SPORT TV 2" ,SPORT TV 2
 http://103.156.141.151:4567/stream/channelid/412280276?profile=pass
-#EXTINF:-1 group-title="SOR RINGIN TV" tvg-name="INDOSIAR" ,INDOSIAR
+#EXTINF:-1 group-title="SOR RINGIN TV" tvg-name="INDOSIAR" ,INDOSIAR1
 http://103.156.141.151:4567/stream/channelid/1245877301?profile=pass
 #EXTINF:-1 group-title="SOR RINGIN TV" tvg-name="HBO" ,HBO
 http://103.156.141.151:4567/stream/channelid/145215374?profile=pass
@@ -668,7 +668,7 @@ http://103.156.141.151:4567/stream/channelid/2102143307?profile=pass
 http://103.156.141.151:4567/stream/channelid/1940316216?profile=pass
 #EXTINF:-1 group-title="SOR RINGIN TV" tvg-name="RCTI" ,RCTI
 http://103.156.141.151:4567/stream/channelid/1296808926?profile=pass
-#EXTINF:-1 group-title="SOR RINGIN TV" tvg-name="INDOSIAR" ,INDOSIAR
+#EXTINF:-1 group-title="SOR RINGIN TV" tvg-name="INDOSIAR" ,INDOSIAR2
 http://103.156.141.151:4567/stream/channelid/582352140?profile=pass
 #EXTINF:-1 group-title="SOR RINGIN TV" tvg-name="MOJI" , MOJI
 http://103.156.141.151:4567/stream/channelid/438208019?profile=pass
