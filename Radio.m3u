@@ -35,8 +35,6 @@
 </div>
 <div id="content" class="hidden">
 
-##
-
 </div>
 </body>
 <script src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js" crossorigin="anonymous"></script>
@@ -1111,10 +1109,6 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/3099
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/46366
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/sDZHgsp0/CTV-1.png" ,CHAMPION TV 1
-http://103.156.141.151:4567/stream/channelid/1733758919?profile=pass
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/kGLjvpdc/CTV-2.png"  , CHAMPION TV 2
-http://103.156.141.151:4567/stream/channelid/1279723616?profile=pass
 #EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/f4-7EI2_Sj9cY0Tb1v8QHyA1QBU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" , CHAMPION TV 3
 http://103.156.141.151:4567/stream/channelid/1414915908?profile=pass
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/sgd6Bqmf/CTV-5.png" ,CHAMPION TV 5
@@ -1219,7 +1213,6 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37359
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37360
 #EXTINF:-1 group-title="Astro" ,MY - TVBS ASIA HD
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37361
-
 #EXTINF:-1 group-title="Astro" ,MY - AA1
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37362
 #EXTINF:-1 group-title="Astro" ,MY - AA2
@@ -1380,11 +1373,6 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/48104
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/48105
 #EXTINF:-1 group-title="SOR RINGIN TV" , PRemier Sports
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/48106
-
-
-
-
-
 #EXTINF:-1 group-title="INDIHOME™"  tvg-logo="",CINEMAWORLD
 https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8?c
 #EXTINF:-1 group-title="INDIHOME™"  tvg-logo="",CNBC INDONESIA
@@ -1451,9 +1439,6 @@ https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
 #EXTINF:-1 group-title="INDIHOME™"  tvg-logo="",MAXSTREAM
 https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
-
-
-
 #EXTINF:-1 tvg-name="CH TEST" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="18x ",DEWASA 2
 https://webhdrunns.mizhls.ru/lb/premium501/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="CH TEST 3" tvg-logo="https://lo1.in/MALAY/astroassp30.png" group-title="SOR RINGIN",DEWASA 3
